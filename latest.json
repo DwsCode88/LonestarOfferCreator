@@ -1,8 +1,8 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "released": "2026-10-07",
-  "notes": "• Offer authorization updated for younger sellers: \"under 18 — parent/guardian present and approves\" checkbox and parent/guardian signature line\n• Removed the ID-checked line",
-  "url": "releases/LonestarOfferCreator-1.5.1.exe",
-  "sha256": "bfda1f67205806ab7c4ceeac06111461f46e6df4abe438fc2aa94fc37dc00abd",
-  "size": 8030208
+  "notes": "• Gift card option: store credit can be taken as a gift card, less a 3% load fee (Settings → Offers)\n• Shown on the printed offer, the draft totals, and as an accept option",
+  "url": "releases/LonestarOfferCreator-1.5.2.exe",
+  "sha256": "d5daf541fa50c2c4d2fa9f52c969fddaa32a4eb979fda7512403b6a20e8b80d1",
+  "size": 8031744
 }
