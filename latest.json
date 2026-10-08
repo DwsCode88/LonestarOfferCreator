@@ -1,8 +1,8 @@
 {
-  "version": "1.6.2",
+  "version": "1.7.0",
   "released": "2026-10-08",
-  "notes": "• Offers now show three choices: Cash, Store credit (use today on this visit) and E-gift card (for a later visit, less the load fee)\n• Wording updated on the printout, accept buttons and gift card slip\n• (1.6.1) E-gift card load dialog, printable e-gift card with QR code, Back button on Labels",
-  "url": "releases/LonestarOfferCreator-1.6.2.exe",
-  "sha256": "fe3d8978bdd7c85d4f008adde8646c841d3d3f0159128b0e35f84eb1c99182c1",
-  "size": 8054272
+  "notes": "• Graded cards: drop CardUploader graded exports (PSA, CGC, BGS, TAG, ACE) — grade, cert number, price and slab photos are read\n• Each slab gets its own SKU from its cert number (e.g. PSA164710713) for labels and Square\n• Labels can show the grade; offers show the cert number",
+  "url": "releases/LonestarOfferCreator-1.7.0.exe",
+  "sha256": "6183f1f362208dfc624babed11a576d2b96eb8f231c24900ee08b5e5bf1b9b5c",
+  "size": 8059392
 }
