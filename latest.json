@@ -1,8 +1,8 @@
 {
-  "version": "1.2.1",
+  "version": "1.3.0",
   "released": "2026-10-07",
-  "notes": "• Fix: Square upload failed to add stock (\"Field was retired at version 2026-07-15\"). Uploads are now pinned to a fixed Square API version.",
-  "url": "releases/LonestarOfferCreator-1.2.1.exe",
-  "sha256": "cc9087d82b9a75d989f4a07b4b0661705a851d5ec60a12fc9dd1bef5edfb4205",
-  "size": 7885824
+  "notes": "• Square: card pictures are added to items (CardUploader scan or Collectr image)\n• Square: unit cost = the cash paid per card (needs Square for Retail Plus; the app tells you if Square refuses it)\n• Re-uploading fills in pictures and cost on items that don't have them yet",
+  "url": "releases/LonestarOfferCreator-1.3.0.exe",
+  "sha256": "0f285ae020cbd1d0876796f5c2555b7da1dd5b827cb0528581ffab3ee0c18948",
+  "size": 7912448
 }
