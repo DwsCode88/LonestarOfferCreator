@@ -1,8 +1,8 @@
 {
-  "version": "1.1.1",
+  "version": "1.2.0",
   "released": "2026-10-07",
-  "notes": "• Lonestar Card Shop logo in the app, taskbar icon and printed summary sheets",
-  "url": "releases/LonestarOfferCreator-1.1.1.exe",
-  "sha256": "638babc2ecb5c887fd53de376e6e925c805bf60244a1d2e8cde47a10b9f45752",
-  "size": 7644160
+  "notes": "• Settings page with Square, Offers, Labels and General tabs\n• Square connector: upload accepted offers to your Square item library (SKU, shelf price, cost, stock)\n• Mark offers accepted (cash or trade); saved offers show Draft / Accepted / In Square\n• SKU and QR code on every label (uses the TCGplayer SKU when the file has one)\n• Bulk priced per 1000 (non-foil / foil), default under $0.50 at $15 / $25\n• Default rates: Pokémon & One Piece 70/80, other games 60/70 (rates you changed are kept)",
+  "url": "releases/LonestarOfferCreator-1.2.0.exe",
+  "sha256": "38d7cb75675f423610cfe505fd3fbab06a7ecff7cfde8c37ead0acfac4947cfa",
+  "size": 7885824
 }
