@@ -1,8 +1,8 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "released": "2026-10-08",
-  "notes": "• New Cards tab: scan a sticker (or search by name) to pull the card up from Square, change its price and save it straight to Square\n• Optional: print a new sticker automatically after saving a price\n• Shows stock and the card picture from Square",
-  "url": "releases/LonestarOfferCreator-1.8.0.exe",
-  "sha256": "8984676a9a497cb3d30b8835606f0871e2d16418b8c674f42e9f76083e7ccd73",
-  "size": 8088576
+  "notes": "• Cards tab: 🗑 delete a wrong card from Square (asks first)\n• (1.8.0) Cards tab: scan or search a card, change its price in Square, reprint its sticker",
+  "url": "releases/LonestarOfferCreator-1.8.1.exe",
+  "sha256": "0bc8e001bc4d5b2c37d5274148f603aed19fd334d611325e8865cbcfd9c562fd",
+  "size": 8093184
 }
