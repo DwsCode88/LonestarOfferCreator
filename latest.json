@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.1",
   "released": "2026-10-07",
-  "notes": "• Load gift cards in Square: when an offer is accepted as a gift card, scan/type the card from the counter (or make a new digital card) and the app activates or tops it up with the gift card amount\n• Offers and the printout show which gift card was loaded",
-  "url": "releases/LonestarOfferCreator-1.6.0.exe",
-  "sha256": "6d2f73f254f2cde465866ba5a8881bdb68c39333e35efaa4ba889e7001993713",
-  "size": 8049664
+  "notes": "• Gift card offers: the load dialog opens as soon as you pick \"Yes — gift card\" (Step 1); uploading the cards is Step 2\n• Printable gift card slip with card number, QR code and amount; \"Show number\" button\n• Labels screen: ← Back to offer button (Esc also goes back)",
+  "url": "releases/LonestarOfferCreator-1.6.1.exe",
+  "sha256": "928104e0637e0b2d4980a95c9a9adcf54ffce587d6034581bb73723480f4d2e9",
+  "size": 8053760
 }
