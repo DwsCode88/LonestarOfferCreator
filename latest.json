@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "released": "2026-10-07",
-  "notes": "• Printing opens its own window — closing it never closes the app\n• Settings → Printers: pick the printer for offer sheets and the DYMO for labels; prints go straight there (no Windows dialog)\n• Optional: print right away without the preview\n• Test print buttons",
-  "url": "releases/LonestarOfferCreator-1.4.0.exe",
-  "sha256": "9742fa454373a3909b4a22e1ba850a3f836d94460fe868ddc1169474b3613926",
-  "size": 7953408
+  "notes": "• New \"Remove this offer's stock once\" button — fixes Square counts when an offer was uploaded twice\n• \"Upload again\" is now a small link with a much stronger warning; offers uploaded more than once are flagged\n• (1.4.0) Separate print window, printer selection in Settings → Printers",
+  "url": "releases/LonestarOfferCreator-1.4.1.exe",
+  "sha256": "b0e6dcd3dd8c927e549167275f7ff64bf07dde25a74675a28fb53b6158415de7",
+  "size": 8018432
 }
