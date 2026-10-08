@@ -1,8 +1,8 @@
 {
-  "version": "1.6.1",
-  "released": "2026-10-07",
-  "notes": "• Gift card offers: the load dialog opens as soon as you pick \"Yes — gift card\" (Step 1); uploading the cards is Step 2\n• Printable gift card slip with card number, QR code and amount; \"Show number\" button\n• Labels screen: ← Back to offer button (Esc also goes back)",
-  "url": "releases/LonestarOfferCreator-1.6.1.exe",
-  "sha256": "928104e0637e0b2d4980a95c9a9adcf54ffce587d6034581bb73723480f4d2e9",
-  "size": 8053760
+  "version": "1.6.2",
+  "released": "2026-10-08",
+  "notes": "• Offers now show three choices: Cash, Store credit (use today on this visit) and E-gift card (for a later visit, less the load fee)\n• Wording updated on the printout, accept buttons and gift card slip\n• (1.6.1) E-gift card load dialog, printable e-gift card with QR code, Back button on Labels",
+  "url": "releases/LonestarOfferCreator-1.6.2.exe",
+  "sha256": "fe3d8978bdd7c85d4f008adde8646c841d3d3f0159128b0e35f84eb1c99182c1",
+  "size": 8054272
 }
