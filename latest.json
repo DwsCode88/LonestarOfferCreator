@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
+  "version": "1.5.0",
   "released": "2026-10-07",
-  "notes": "• New \"Remove this offer's stock once\" button — fixes Square counts when an offer was uploaded twice\n• \"Upload again\" is now a small link with a much stronger warning; offers uploaded more than once are flagged\n• (1.4.0) Separate print window, printer selection in Settings → Printers",
-  "url": "releases/LonestarOfferCreator-1.4.1.exe",
-  "sha256": "b0e6dcd3dd8c927e549167275f7ff64bf07dde25a74675a28fb53b6158415de7",
-  "size": 8018432
+  "notes": "• New customer-friendly offer printout in color: logo header, best-prices tagline, big cash / store-credit boxes, striped item list\n• Customer authorization + signature block (owner or authorized, as-is where-is, cash or credit checkbox)\n• Offer date on every offer (editable on the draft, printed, shown in Offers)\n• + New offer button: saves the current offer and starts a fresh one\n• Settings → General: tagline, store address/phone, authorization text",
+  "url": "releases/LonestarOfferCreator-1.5.0.exe",
+  "sha256": "8f9b71465be41269f476cdc213a14abada76dab264d26d833f069335a77b6da8",
+  "size": 8029184
 }
