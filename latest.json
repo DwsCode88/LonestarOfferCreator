@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "released": "2026-10-07",
-  "notes": "• New customer-friendly offer printout in color: logo header, best-prices tagline, big cash / store-credit boxes, striped item list\n• Customer authorization + signature block (owner or authorized, as-is where-is, cash or credit checkbox)\n• Offer date on every offer (editable on the draft, printed, shown in Offers)\n• + New offer button: saves the current offer and starts a fresh one\n• Settings → General: tagline, store address/phone, authorization text",
-  "url": "releases/LonestarOfferCreator-1.5.0.exe",
-  "sha256": "8f9b71465be41269f476cdc213a14abada76dab264d26d833f069335a77b6da8",
-  "size": 8029184
+  "notes": "• Offer authorization updated for younger sellers: \"under 18 — parent/guardian present and approves\" checkbox and parent/guardian signature line\n• Removed the ID-checked line",
+  "url": "releases/LonestarOfferCreator-1.5.1.exe",
+  "sha256": "bfda1f67205806ab7c4ceeac06111461f46e6df4abe438fc2aa94fc37dc00abd",
+  "size": 8030208
 }
