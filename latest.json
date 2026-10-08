@@ -1,8 +1,8 @@
 {
-  "version": "1.5.2",
+  "version": "1.6.0",
   "released": "2026-10-07",
-  "notes": "• Gift card option: store credit can be taken as a gift card, less a 3% load fee (Settings → Offers)\n• Shown on the printed offer, the draft totals, and as an accept option",
-  "url": "releases/LonestarOfferCreator-1.5.2.exe",
-  "sha256": "d5daf541fa50c2c4d2fa9f52c969fddaa32a4eb979fda7512403b6a20e8b80d1",
-  "size": 8031744
+  "notes": "• Load gift cards in Square: when an offer is accepted as a gift card, scan/type the card from the counter (or make a new digital card) and the app activates or tops it up with the gift card amount\n• Offers and the printout show which gift card was loaded",
+  "url": "releases/LonestarOfferCreator-1.6.0.exe",
+  "sha256": "6d2f73f254f2cde465866ba5a8881bdb68c39333e35efaa4ba889e7001993713",
+  "size": 8049664
 }
