@@ -1,0 +1,8 @@
+{
+  "version": "1.1.0",
+  "released": "2026-10-07",
+  "notes": "• Labels tab: print price labels from CardUploader, Collectr or TCGplayer CSVs, or by hand\n• Label layout editor (fields, order, lines, label size, markup and rounding)\n• Print labels straight from a draft offer\n• Menu bar: File, Edit, View, Help\n• Automatic updates from Help → Check for updates",
+  "url": "releases/LonestarOfferCreator-1.1.0.exe",
+  "sha256": "6e77083e718b041fa171cca30d0b18d23f5f7fe3af8e5dd6e3c1124324981172",
+  "size": 7427072
+}
