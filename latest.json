@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
+  "version": "1.3.1",
   "released": "2026-10-07",
-  "notes": "• Square: card pictures are added to items (CardUploader scan or Collectr image)\n• Square: unit cost = the cash paid per card (needs Square for Retail Plus; the app tells you if Square refuses it)\n• Re-uploading fills in pictures and cost on items that don't have them yet",
-  "url": "releases/LonestarOfferCreator-1.3.0.exe",
-  "sha256": "0f285ae020cbd1d0876796f5c2555b7da1dd5b827cb0528581ffab3ee0c18948",
-  "size": 7912448
+  "notes": "• Square: card pictures are added to items (CardUploader scan or Collectr image)\n• Square: unit cost = the cash paid per card (needs Square for Retail Plus; the app tells you if Square refuses it)\n• New \"Update pictures & cost only\" button on uploaded offers — fills in pictures and cost without adding stock again",
+  "url": "releases/LonestarOfferCreator-1.3.1.exe",
+  "sha256": "9d407cdfc3608939877863f9e837794cf2712273b4786ed0cb77d6403e19502a",
+  "size": 7914496
 }
