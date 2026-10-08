@@ -1,8 +1,8 @@
 {
-  "version": "1.7.1",
+  "version": "1.8.0",
   "released": "2026-10-08",
-  "notes": "• Brother QL label printers (QL-800 etc.): DK-1209, DK-1201, DK-11204, DK-1208 and 29 mm / 62 mm continuous rolls in Label layout\n• Brother printers are listed first for labels in Settings → Printers",
-  "url": "releases/LonestarOfferCreator-1.7.1.exe",
-  "sha256": "f87ac0f124aa40770b29b9b45f6990a88ff700caea0306ce7add6bba0f37e648",
-  "size": 8060416
+  "notes": "• New Cards tab: scan a sticker (or search by name) to pull the card up from Square, change its price and save it straight to Square\n• Optional: print a new sticker automatically after saving a price\n• Shows stock and the card picture from Square",
+  "url": "releases/LonestarOfferCreator-1.8.0.exe",
+  "sha256": "8984676a9a497cb3d30b8835606f0871e2d16418b8c674f42e9f76083e7ccd73",
+  "size": 8088576
 }
