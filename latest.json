@@ -1,8 +1,8 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "released": "2026-10-07",
-  "notes": "• Settings page with Square, Offers, Labels and General tabs\n• Square connector: upload accepted offers to your Square item library (SKU, shelf price, cost, stock)\n• Mark offers accepted (cash or trade); saved offers show Draft / Accepted / In Square\n• SKU and QR code on every label (uses the TCGplayer SKU when the file has one)\n• Bulk priced per 1000 (non-foil / foil), default under $0.50 at $15 / $25\n• Default rates: Pokémon & One Piece 70/80, other games 60/70 (rates you changed are kept)",
-  "url": "releases/LonestarOfferCreator-1.2.0.exe",
-  "sha256": "38d7cb75675f423610cfe505fd3fbab06a7ecff7cfde8c37ead0acfac4947cfa",
+  "notes": "• Fix: Square upload failed to add stock (\"Field was retired at version 2026-07-15\"). Uploads are now pinned to a fixed Square API version.",
+  "url": "releases/LonestarOfferCreator-1.2.1.exe",
+  "sha256": "cc9087d82b9a75d989f4a07b4b0661705a851d5ec60a12fc9dd1bef5edfb4205",
   "size": 7885824
 }
