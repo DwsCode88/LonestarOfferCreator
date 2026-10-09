@@ -1,8 +1,8 @@
 {
-  "version": "1.9.4",
+  "version": "1.9.5",
   "released": "2026-10-09",
-  "notes": "• ⚡ Send to CardUploader: scans go straight into CardUploader in Chrome — no dragging (fronts first, then backs). Sign in to CardUploader once in the Chrome window it opens\n• Optional: Send after each scan\n• Open CardUploader uses Chrome, on the left side of the screen\n• Name each scan batch for the customer — every batch gets its own folder\n• Scans are tied to offers: Draft offer → Card scans (auto-matched by name), 📠 Scan for this offer, 📂 in Offers",
-  "url": "releases/LonestarOfferCreator-1.9.4.exe",
-  "sha256": "8e81fa20b79de79c1e80b44d55a22b62b2a822329681ca367ef37843353b6bd2",
-  "size": 8432128
+  "notes": "• Send to CardUploader clicks “Next: Upload … Cards” and picks “2 Images” (front + back) for you, then drops the pictures in\n• Warns if a card is missing its front or back (odd number of pictures)",
+  "url": "releases/LonestarOfferCreator-1.9.5.exe",
+  "sha256": "778f102954e2507275df8083e448ecfc9e3eed3753e9d289242a9ed7069f3d2f",
+  "size": 8435712
 }
