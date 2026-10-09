@@ -1,8 +1,8 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "released": "2026-10-09",
-  "notes": "• “What are you scanning?” — pick the CardUploader Database (English Pokemon, One Piece English, Magic: The Gathering, … all of CardUploader's games) before scanning; Send selects it in CardUploader's Database dropdown by itself\n• ↻ list reads the current Database list from CardUploader",
-  "url": "releases/LonestarOfferCreator-2.0.1.exe",
-  "sha256": "aceea5cc7c528f70ca46a2606d019018013b2194f086681bb13c90a7d268150b",
-  "size": 8477184
+  "notes": "• CardUploader setup page: selecting the game in the Database box works with more kinds of dropdowns, and Send never clicks Next before the Database is set\n• If it can't set it, it waits for you to pick it and saves carduploader-database-debug.html in the data folder to send for a fix",
+  "url": "releases/LonestarOfferCreator-2.0.2.exe",
+  "sha256": "3709de0db75bd09d828574e2122e3dd2e917a9bba04581594405d2964e360fdb",
+  "size": 8480256
 }
