@@ -1,8 +1,8 @@
 {
-  "version": "1.8.1",
-  "released": "2026-10-08",
-  "notes": "• Cards tab: 🗑 delete a wrong card from Square (asks first)\n• (1.8.0) Cards tab: scan or search a card, change its price in Square, reprint its sticker",
-  "url": "releases/LonestarOfferCreator-1.8.1.exe",
-  "sha256": "0bc8e001bc4d5b2c37d5274148f603aed19fd334d611325e8865cbcfd9c562fd",
-  "size": 8093184
+  "version": "1.8.2",
+  "released": "2026-10-09",
+  "notes": "• DYMO 30333 (1/2 × 1 in, 2-up) label size — prints price, QR code and SKU\n• Settings → Printers: choose the label roll (LabelWriter Twin Turbo left / right) and the label type on it; the print window has a Roll picker too",
+  "url": "releases/LonestarOfferCreator-1.8.2.exe",
+  "sha256": "066b4fee54f1c689face2de49a039c6b8138cdb6ac5ba9bf49a8b7126874bf1c",
+  "size": 8106496
 }
