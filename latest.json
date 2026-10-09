@@ -1,8 +1,8 @@
 {
-  "version": "1.8.6",
+  "version": "1.8.7",
   "released": "2026-10-09",
-  "notes": "• DYMO 30333: right-hand labels no longer run off the edge (gap between the two labels set to 0)",
-  "url": "releases/LonestarOfferCreator-1.8.6.exe",
-  "sha256": "1f21434e760ddc2c5a1e7c686075361cb8d02541b96c5174abb33fb5a0acda44",
+  "notes": "• Print labels from an offer now shows only that offer's cards (it no longer adds to cards already in the label list)\n• Graded cards keep their grade on labels printed from an offer",
+  "url": "releases/LonestarOfferCreator-1.8.7.exe",
+  "sha256": "342366654f320b46457e7625fd5ffa74ab7b12bfcadb36b558052ef36bfcb2ff",
   "size": 8112128
 }
