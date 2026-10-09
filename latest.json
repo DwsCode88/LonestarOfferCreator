@@ -1,8 +1,8 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.1",
   "released": "2026-10-09",
-  "notes": "• New Scan tab (Ctrl+4): scan cards on the Fujitsu/Ricoh fi-series (fi-8170, fi-7160) from inside the app — feeder, both sides, color\n• Scans saved as 0001_front / 0001_back in Pictures\\Lonestar Scans, one folder per batch, with thumbnails (✕ removes a bad scan)\n• Open CardUploader: opens carduploader.com and the batch folder so you can drag the pictures straight in\n• Using PaperStream Capture? Point the Scan tab at its output folder",
-  "url": "releases/LonestarOfferCreator-1.9.0.exe",
-  "sha256": "8a624984529013834969fb76900e3c5b821e8a43bfe751678577268959ce2904",
-  "size": 8233984
+  "notes": "• Scan tab now works with network (LAN) fi scanners: the app installs a free scanner add-on (NAPS2) by itself and scans through the PaperStream IP TWAIN driver\n• The fi scanner is picked automatically in the scanner list",
+  "url": "releases/LonestarOfferCreator-1.9.1.exe",
+  "sha256": "14e9f61480ad1873ed59e5ee70b0f3bd60b639b70d26ad5a51e86d0d44b645f4",
+  "size": 8378880
 }
