@@ -1,8 +1,8 @@
 {
-  "version": "1.8.4",
+  "version": "1.8.5",
   "released": "2026-10-09",
-  "notes": "• 2-up label rolls (DYMO 30333): prints a full row — two labels side by side — per page, left then right\n• Label layout: labels across (1 or 2), gap, nudge right/down, and an alignment test print",
-  "url": "releases/LonestarOfferCreator-1.8.4.exe",
-  "sha256": "88dd479a0aedb79b6253830a9426d0e8ab67d2b8b21bba0590a7b1bdeba4bf63",
-  "size": 8110592
+  "notes": "• DYMO 30333 fixed: each row is two ½ × 1 in labels side by side, printed the right way round (text runs along the 1 in side)\n• Label layout: \"Turn on the roll\" option for labels that run along the roll",
+  "url": "releases/LonestarOfferCreator-1.8.5.exe",
+  "sha256": "720db1d13cd55c9d08115d083385cc6c38ff5e7a4abf83214c8b5eaf0f0ce434",
+  "size": 8112128
 }
