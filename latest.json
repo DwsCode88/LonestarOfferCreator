@@ -1,8 +1,8 @@
 {
-  "version": "1.9.7",
+  "version": "2.0.0",
   "released": "2026-10-09",
-  "notes": "• Send to CardUploader waits for all pictures to upload, then presses “Process cards” (checkbox to turn off). Won't press it if CardUploader's card count doesn't match what was sent",
-  "url": "releases/LonestarOfferCreator-1.9.7.exe",
-  "sha256": "116b1618d91d27fe874852e787bd15fb93ca47266ebccfd0ba6c562f01747e45",
-  "size": 8440320
+  "notes": "• New offer flow: customer name → 📠 Scan cards → ⚡ Send to CardUploader → export the CSV in CardUploader. The app watches Downloads, moves the CardUploader file into the offer's folder with the scans, and loads it into the offer by itself\n• Several games in one offer: pick the Game on the Scan tab — each game gets its own scan folder, and every CardUploader file adds to the same offer\n• Send checks CardUploader's Database matches the game (picks it when it can, otherwise waits for you to switch it)",
+  "url": "releases/LonestarOfferCreator-2.0.0.exe",
+  "sha256": "11b8e8c3f6fffc08a5c65961b407ed6939c7ce133e4e44792d53b87a18aa95b6",
+  "size": 8467968
 }
