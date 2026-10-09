@@ -1,8 +1,8 @@
 {
-  "version": "1.8.2",
+  "version": "1.8.3",
   "released": "2026-10-09",
-  "notes": "• DYMO 30333 (1/2 × 1 in, 2-up) label size — prints price, QR code and SKU\n• Settings → Printers: choose the label roll (LabelWriter Twin Turbo left / right) and the label type on it; the print window has a Roll picker too",
-  "url": "releases/LonestarOfferCreator-1.8.2.exe",
-  "sha256": "066b4fee54f1c689face2de49a039c6b8138cdb6ac5ba9bf49a8b7126874bf1c",
-  "size": 8106496
+  "notes": "• DYMO 30333 labels: price + card name (the SKU stays in the QR code)\n• (1.8.2) DYMO 30333 size, Twin Turbo left/right roll selection",
+  "url": "releases/LonestarOfferCreator-1.8.3.exe",
+  "sha256": "3a8b33297370fcb7298536d8f9c81d506737c4b1e831b6e38178b257dc1a0662",
+  "size": 8107008
 }
