@@ -1,8 +1,8 @@
 {
-  "version": "1.8.3",
+  "version": "1.8.4",
   "released": "2026-10-09",
-  "notes": "• DYMO 30333 labels: price + card name (the SKU stays in the QR code)\n• (1.8.2) DYMO 30333 size, Twin Turbo left/right roll selection",
-  "url": "releases/LonestarOfferCreator-1.8.3.exe",
-  "sha256": "3a8b33297370fcb7298536d8f9c81d506737c4b1e831b6e38178b257dc1a0662",
-  "size": 8107008
+  "notes": "• 2-up label rolls (DYMO 30333): prints a full row — two labels side by side — per page, left then right\n• Label layout: labels across (1 or 2), gap, nudge right/down, and an alignment test print",
+  "url": "releases/LonestarOfferCreator-1.8.4.exe",
+  "sha256": "88dd479a0aedb79b6253830a9426d0e8ab67d2b8b21bba0590a7b1bdeba4bf63",
+  "size": 8110592
 }
