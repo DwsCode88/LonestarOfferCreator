@@ -1,8 +1,8 @@
 {
-  "version": "1.9.3",
+  "version": "1.9.4",
   "released": "2026-10-09",
-  "notes": "• Scans are named 0001_1_front / 0001_2_back so each card's front comes first, then its back\n• Scan tab: Swap front/back option if the backs come out first",
-  "url": "releases/LonestarOfferCreator-1.9.3.exe",
-  "sha256": "c1bde635dd556c86a5a22ad39a29b0b9d37f5376236c9865a10b70e403999557",
-  "size": 8396288
+  "notes": "• ⚡ Send to CardUploader: scans go straight into CardUploader in Chrome — no dragging (fronts first, then backs). Sign in to CardUploader once in the Chrome window it opens\n• Optional: Send after each scan\n• Open CardUploader uses Chrome, on the left side of the screen\n• Name each scan batch for the customer — every batch gets its own folder\n• Scans are tied to offers: Draft offer → Card scans (auto-matched by name), 📠 Scan for this offer, 📂 in Offers",
+  "url": "releases/LonestarOfferCreator-1.9.4.exe",
+  "sha256": "8e81fa20b79de79c1e80b44d55a22b62b2a822329681ca367ef37843353b6bd2",
+  "size": 8432128
 }
