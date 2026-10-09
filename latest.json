@@ -1,8 +1,8 @@
 {
-  "version": "2.0.3",
+  "version": "2.0.4",
   "released": "2026-10-09",
-  "notes": "• Several games per offer: on the start card click ＋ Add game for each game in the customer's stack — the Scan tab walks through them (scanned → sent → CSV loaded), and every game's cards go into the same offer\n• Offers: tick 2 or more saved offers and click ⧉ Combine into 1 offer",
-  "url": "releases/LonestarOfferCreator-2.0.3.exe",
-  "sha256": "b411e34846dedffc5776596dfcb14b0ed8d0784527352d1e86050829beca2c14",
-  "size": 8486912
+  "notes": "• After each CardUploader file downloads, Chrome goes back to the upload page, ready for the next game or customer — or closes after the last file (Scan tab → After the CSV downloads)",
+  "url": "releases/LonestarOfferCreator-2.0.4.exe",
+  "sha256": "e242d6a113e79b1e04d68d3e5010a43b332bd4f882fa085372597820ae7ad0ac",
+  "size": 8491520
 }
