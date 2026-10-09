@@ -1,8 +1,8 @@
 {
-  "version": "1.9.1",
+  "version": "1.9.2",
   "released": "2026-10-09",
-  "notes": "• Scan tab now works with network (LAN) fi scanners: the app installs a free scanner add-on (NAPS2) by itself and scans through the PaperStream IP TWAIN driver\n• The fi scanner is picked automatically in the scanner list",
-  "url": "releases/LonestarOfferCreator-1.9.1.exe",
-  "sha256": "14e9f61480ad1873ed59e5ee70b0f3bd60b639b70d26ad5a51e86d0d44b645f4",
-  "size": 8378880
+  "notes": "• Open CardUploader puts CardUploader's Ungraded dashboard (left) and your scan folder (right) side by side, ready to drag the pictures across\n• Scan tab: CardUploader page link can be changed",
+  "url": "releases/LonestarOfferCreator-1.9.2.exe",
+  "sha256": "69d1c237df2b4d48f9bdd131856e7cdb3cd2a9e8d001b6fb37f2badec59ccd8e",
+  "size": 8394752
 }
