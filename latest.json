@@ -1,8 +1,8 @@
 {
-  "version": "1.9.5",
+  "version": "1.9.6",
   "released": "2026-10-09",
-  "notes": "• Send to CardUploader clicks “Next: Upload … Cards” and picks “2 Images” (front + back) for you, then drops the pictures in\n• Warns if a card is missing its front or back (odd number of pictures)",
-  "url": "releases/LonestarOfferCreator-1.9.5.exe",
-  "sha256": "778f102954e2507275df8083e448ecfc9e3eed3753e9d289242a9ed7069f3d2f",
-  "size": 8435712
+  "notes": "• Send to CardUploader always sends the whole batch at once (scan everything, then send once)",
+  "url": "releases/LonestarOfferCreator-1.9.6.exe",
+  "sha256": "4775542162ac9f1b85c2df2a3260388deaa53d2934a45d1896d6eba467de3927",
+  "size": 8435200
 }
