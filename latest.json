@@ -1,8 +1,8 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "released": "2026-10-09",
-  "notes": "• After each CardUploader file downloads, Chrome goes back to the upload page, ready for the next game or customer — or closes after the last file (Scan tab → After the CSV downloads)",
-  "url": "releases/LonestarOfferCreator-2.0.4.exe",
-  "sha256": "e242d6a113e79b1e04d68d3e5010a43b332bd4f882fa085372597820ae7ad0ac",
-  "size": 8491520
+  "notes": "• Offer creator: picking a game now sticks (no longer jumps back to English Pokemon)\n• While an offer is in progress, the start card shows its games — click one to scan it, pick another game to add it; “Continue scanning” keeps the same offer",
+  "url": "releases/LonestarOfferCreator-2.0.5.exe",
+  "sha256": "a433410b218101acf334ceab5876969781ef6a994352c54abd73ff1c90e4db81",
+  "size": 8494080
 }
