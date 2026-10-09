@@ -1,8 +1,8 @@
 {
-  "version": "2.0.6",
+  "version": "2.1.0",
   "released": "2026-10-09",
-  "notes": "• Offer creator: “＋ Add a game…” — every game you pick is added to the offer (the first pick replaces the default). Click a game to scan it first, ✕ removes it",
-  "url": "releases/LonestarOfferCreator-2.0.6.exe",
-  "sha256": "6c010bdabb39479b8b67f256fb8322544374608f5fcf621a8487b9a685657dcd",
-  "size": 8494592
+  "notes": "• ＋ New offer saves the current offer, clears everything (cards, scans, the CardUploader wait), asks for the customer name and the first game, makes a new folder and goes straight to scanning\n• 💾 Save offer at any step (button, Ctrl+S, File → Save offer); saved offers reopen at the step you left them, with every card, game and the scan folder\n• Offers save themselves after each Send and each CardUploader file",
+  "url": "releases/LonestarOfferCreator-2.1.0.exe",
+  "sha256": "d45ae459dc1af1a378fdd67dc17baf7c362b00839eb99350a56eb082f021dae4",
+  "size": 8499712
 }
