@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "released": "2026-10-09",
-  "notes": "• New offer flow: customer name → 📠 Scan cards → ⚡ Send to CardUploader → export the CSV in CardUploader. The app watches Downloads, moves the CardUploader file into the offer's folder with the scans, and loads it into the offer by itself\n• Several games in one offer: pick the Game on the Scan tab — each game gets its own scan folder, and every CardUploader file adds to the same offer\n• Send checks CardUploader's Database matches the game (picks it when it can, otherwise waits for you to switch it)",
-  "url": "releases/LonestarOfferCreator-2.0.0.exe",
-  "sha256": "11b8e8c3f6fffc08a5c65961b407ed6939c7ce133e4e44792d53b87a18aa95b6",
-  "size": 8467968
+  "notes": "• “What are you scanning?” — pick the CardUploader Database (English Pokemon, One Piece English, Magic: The Gathering, … all of CardUploader's games) before scanning; Send selects it in CardUploader's Database dropdown by itself\n• ↻ list reads the current Database list from CardUploader",
+  "url": "releases/LonestarOfferCreator-2.0.1.exe",
+  "sha256": "aceea5cc7c528f70ca46a2606d019018013b2194f086681bb13c90a7d268150b",
+  "size": 8477184
 }
