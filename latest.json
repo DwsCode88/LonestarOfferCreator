@@ -1,8 +1,8 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "released": "2026-10-09",
-  "notes": "• CardUploader setup page: selecting the game in the Database box works with more kinds of dropdowns, and Send never clicks Next before the Database is set\n• If it can't set it, it waits for you to pick it and saves carduploader-database-debug.html in the data folder to send for a fix",
-  "url": "releases/LonestarOfferCreator-2.0.2.exe",
-  "sha256": "3709de0db75bd09d828574e2122e3dd2e917a9bba04581594405d2964e360fdb",
-  "size": 8480256
+  "notes": "• Several games per offer: on the start card click ＋ Add game for each game in the customer's stack — the Scan tab walks through them (scanned → sent → CSV loaded), and every game's cards go into the same offer\n• Offers: tick 2 or more saved offers and click ⧉ Combine into 1 offer",
+  "url": "releases/LonestarOfferCreator-2.0.3.exe",
+  "sha256": "b411e34846dedffc5776596dfcb14b0ed8d0784527352d1e86050829beca2c14",
+  "size": 8486912
 }
