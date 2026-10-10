@@ -1,8 +1,8 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "released": "2026-10-10",
-  "notes": "Hold bags fix: \"SMS delivery method is read-only\" \u2014 Square can't text invoices from apps. Holds are now emailed (Square sends the balance reminder) or shared by QR / Copy pay link to text yourself.",
-  "url": "releases/LonestarOfferCreator-2.2.1.exe",
-  "sha256": "133b8f4e282bfbc50c76d4c5bee746759e01962a5d663c0180778fd074f6eb3f",
-  "size": 8634368
+  "notes": "Hold bags: new \"From Square invoice\" button \u2014 invoices you make in Square show up in a list, and \"Add as hold\" pulls in the customer, cards, deposit and due date. You can also scan or type an invoice # in the hold search.",
+  "url": "releases/LonestarOfferCreator-2.2.2.exe",
+  "sha256": "42755ae12b078462ccc0fab1622843dc296b64e4a980ba961e203c43d666dbb5",
+  "size": 8667648
 }
