@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
-  "released": "2026-10-09",
-  "notes": "• ＋ New offer saves the current offer, clears everything (cards, scans, the CardUploader wait), asks for the customer name and the first game, makes a new folder and goes straight to scanning\n• 💾 Save offer at any step (button, Ctrl+S, File → Save offer); saved offers reopen at the step you left them, with every card, game and the scan folder\n• Offers save themselves after each Send and each CardUploader file",
-  "url": "releases/LonestarOfferCreator-2.1.0.exe",
-  "sha256": "d45ae459dc1af1a378fdd67dc17baf7c362b00839eb99350a56eb082f021dae4",
-  "size": 8499712
+  "version": "2.2.0",
+  "released": "2026-10-10",
+  "notes": "New Hold bags tab: put cards on hold for a customer with a Square invoice (deposit 25% under $75 / 50% at $75+ due now, balance due in 7 days with a reminder, gift cards turned off). Put in safe once the deposit is paid, print a bag tag (QR, name, phone, cards, deposit, invoice #, release date) and a safe sheet sorted by release date. Picked up / Release on day 8 (half the deposit kept, the rest as store credit on a gift card; customer becomes pay-in-full only). One deposit hold per customer.",
+  "url": "releases/LonestarOfferCreator-2.2.0.exe",
+  "sha256": "f733241ebd3bdc74d39b0497a02ffd1da60fa4af26012c97774d9fbac86f2a64",
+  "size": 8633856
 }
