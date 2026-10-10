@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "released": "2026-10-10",
-  "notes": "New Hold bags tab: put cards on hold for a customer with a Square invoice (deposit 25% under $75 / 50% at $75+ due now, balance due in 7 days with a reminder, gift cards turned off). Put in safe once the deposit is paid, print a bag tag (QR, name, phone, cards, deposit, invoice #, release date) and a safe sheet sorted by release date. Picked up / Release on day 8 (half the deposit kept, the rest as store credit on a gift card; customer becomes pay-in-full only). One deposit hold per customer.",
-  "url": "releases/LonestarOfferCreator-2.2.0.exe",
-  "sha256": "f733241ebd3bdc74d39b0497a02ffd1da60fa4af26012c97774d9fbac86f2a64",
-  "size": 8633856
+  "notes": "Hold bags fix: \"SMS delivery method is read-only\" \u2014 Square can't text invoices from apps. Holds are now emailed (Square sends the balance reminder) or shared by QR / Copy pay link to text yourself.",
+  "url": "releases/LonestarOfferCreator-2.2.1.exe",
+  "sha256": "133b8f4e282bfbc50c76d4c5bee746759e01962a5d663c0180778fd074f6eb3f",
+  "size": 8634368
 }
