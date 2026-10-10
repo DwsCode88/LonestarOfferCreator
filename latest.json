@@ -1,8 +1,8 @@
 {
-  "version": "2.2.2",
+  "version": "2.2.3",
   "released": "2026-10-10",
-  "notes": "Hold bags: new \"From Square invoice\" button \u2014 invoices you make in Square show up in a list, and \"Add as hold\" pulls in the customer, cards, deposit and due date. You can also scan or type an invoice # in the hold search.",
-  "url": "releases/LonestarOfferCreator-2.2.2.exe",
-  "sha256": "42755ae12b078462ccc0fab1622843dc296b64e4a980ba961e203c43d666dbb5",
-  "size": 8667648
+  "notes": "Holds from Square invoices now get a deposit: the invoice's own deposit, or the hold policy's (25% / 50%) when it has none, with the balance due 7 days later. Choose Deposit hold or Paid in full when adding; open holds can be switched.",
+  "url": "releases/LonestarOfferCreator-2.2.3.exe",
+  "sha256": "bf271dce1e8985b609944fcef2e071ea482702ed97194c2db6f246a694006ffb",
+  "size": 8675328
 }
