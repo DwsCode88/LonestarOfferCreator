@@ -1,8 +1,8 @@
 {
-  "version": "2.2.3",
-  "released": "2026-10-10",
-  "notes": "Holds from Square invoices now get a deposit: the invoice's own deposit, or the hold policy's (25% / 50%) when it has none, with the balance due 7 days later. Choose Deposit hold or Paid in full when adding; open holds can be switched.",
-  "url": "releases/LonestarOfferCreator-2.2.3.exe",
-  "sha256": "bf271dce1e8985b609944fcef2e071ea482702ed97194c2db6f246a694006ffb",
-  "size": 8675328
+  "version": "2.2.4",
+  "released": "2026-10-11",
+  "notes": "Printed offer: page 1 in color (offer, totals, signature); the itemized list prints after it in black & white.",
+  "url": "releases/LonestarOfferCreator-2.2.4.exe",
+  "sha256": "69993dbfe105d66b78dfa4fd979e5a0030f4683005b79e269f36d5ec651ea116",
+  "size": 8677376
 }
