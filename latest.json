@@ -1,8 +1,8 @@
 {
-  "version": "2.4.1",
+  "version": "2.4.2",
   "released": "2026-10-12",
-  "notes": "Price labels: smaller QR code and the full card number (e.g. Sylveon V #074/203). Includes the 2.4.0 Giveaway prizes tab.",
-  "url": "releases/LonestarOfferCreator-2.4.1.exe",
-  "sha256": "e29eeb0e4a958ca9b82e2d60256e754fcefe466171a2b3f7d6a7801d503bfa4b",
+  "notes": "Labels: the card number now prints on small 2-across labels (DYMO 30333) too, on its own line under the name.",
+  "url": "releases/LonestarOfferCreator-2.4.2.exe",
+  "sha256": "8f33f43b53cff1e2fb17f48ca3c267594162ad08a6ce74ac3c5dabe2fce766ce",
   "size": 8863232
 }
