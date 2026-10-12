@@ -1,8 +1,8 @@
 {
-  "version": "2.3.1",
+  "version": "2.4.1",
   "released": "2026-10-12",
-  "notes": "Price labels: smaller QR code and the full card number (e.g. Sylveon V #074/203).",
-  "url": "releases/LonestarOfferCreator-2.3.1.exe",
-  "sha256": "7e36957c536b133a91b9cdcff3fad22609d6a2acc76bee80925223b7e7b6c387",
+  "notes": "Price labels: smaller QR code and the full card number (e.g. Sylveon V #074/203). Includes the 2.4.0 Giveaway prizes tab.",
+  "url": "releases/LonestarOfferCreator-2.4.1.exe",
+  "sha256": "e29eeb0e4a958ca9b82e2d60256e754fcefe466171a2b3f7d6a7801d503bfa4b",
   "size": 8863232
 }
