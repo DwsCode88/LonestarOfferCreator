@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "released": "2026-10-11",
-  "notes": "Scan tab \u2192 Picture: scans are lightened as they come in (auto-correct, brightness, contrast) with a before/after preview. Apply to this batch re-does pictures already scanned; originals are kept.",
-  "url": "releases/LonestarOfferCreator-2.3.0.exe",
-  "sha256": "3c52c54f0d0149db3eedb02fbf539a3f29e9cf7ca1b0a86056c7578687721420",
-  "size": 8839680
+  "notes": "New Giveaway prizes tab (Ctrl+6): prizes from the LoneStar Discord bot. Print a sticker for each prize pack (pickup code + QR, winner, prize) and an inventory sheet of what was given away.",
+  "url": "releases/LonestarOfferCreator-2.4.0.exe",
+  "sha256": "64f2c599143b5b7a14b065612099db17a10df481699305e6a408b3e1f7ace96b",
+  "size": 8862720
 }
