@@ -1,8 +1,8 @@
 {
-  "version": "2.4.2",
+  "version": "2.4.3",
   "released": "2026-10-12",
-  "notes": "Labels: the card number now prints on small 2-across labels (DYMO 30333) too, on its own line under the name.",
-  "url": "releases/LonestarOfferCreator-2.4.2.exe",
-  "sha256": "8f33f43b53cff1e2fb17f48ca3c267594162ad08a6ce74ac3c5dabe2fce766ce",
-  "size": 8863232
+  "notes": "Scan tab: pick one Condition for all cards (Near Mint, Lightly Played, ...) and Send sets CardUploader's default condition to it.",
+  "url": "releases/LonestarOfferCreator-2.4.3.exe",
+  "sha256": "8ce0c346b69221ccd06ad21ea282208050879b5bd32e1ba21edcd2e0608c8f65",
+  "size": 8866816
 }
