@@ -1,8 +1,8 @@
 {
-  "version": "2.6.1",
+  "version": "2.6.2",
   "released": "2026-10-12",
-  "notes": "Email from the app: Settings \u2192 Email (Gmail, Outlook, Yahoo or any SMTP). Card sorting orders get a Send email button for the customer messages.",
-  "url": "releases/LonestarOfferCreator-2.6.1.exe",
-  "sha256": "0d65dd6db241504bf03d6065e0c489f455b4df69c31cef70f190dd465192de0c",
-  "size": 9151488
+  "notes": "Settings \u2192 Email: send through an email service (Resend, SendGrid, Brevo, Mailgun or Postmark) as well as Gmail / Outlook / SMTP.",
+  "url": "releases/LonestarOfferCreator-2.6.2.exe",
+  "sha256": "d45cba568efbc1bb433053f7747c0894b1e0cf051ec8d08be8e42c8f4924b5cc",
+  "size": 9177600
 }
