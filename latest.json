@@ -1,8 +1,8 @@
 {
-  "version": "2.4.3",
+  "version": "2.5.0",
   "released": "2026-10-12",
-  "notes": "Scan tab: pick one Condition for all cards (Near Mint, Lightly Played, ...) and Send sets CardUploader's default condition to it.",
-  "url": "releases/LonestarOfferCreator-2.4.3.exe",
-  "sha256": "8ce0c346b69221ccd06ad21ea282208050879b5bd32e1ba21edcd2e0608c8f65",
-  "size": 8866816
+  "notes": "Print an offer as Full, First page only, or Condensed list. Bulk is now singles under $1 at $10 per 1000.",
+  "url": "releases/LonestarOfferCreator-2.5.0.exe",
+  "sha256": "d2096753697a98661a5cb436816604518f922d034ccf9958b7ba4abbc5a6bc83",
+  "size": 8870400
 }
