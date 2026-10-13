@@ -1,8 +1,8 @@
 {
-  "version": "2.9.0",
+  "version": "2.9.1",
   "released": "2026-10-13",
-  "notes": "• Card sorting: box labels and receipts now have a UPC barcode instead of a QR code — scan it with any barcode scanner into the order search to pull the order up\n• New sort workflow inside an order: status steps across the top, then each sort pass with ▶ Start on machine / ■ Finish pass (cards that went through) or ✓ Done by hand. Progress fills in by itself and finishing the last pass moves the order to Sorting Complete; the first pass's machine count becomes the actual card count\n• Square invoice → ✉ Email pay link: sends the invoice in Square (after you turn on Partial payments there) and emails the customer the pay link from the store's email (Settings → Email)",
-  "url": "releases/LonestarOfferCreator-2.9.0.exe",
-  "sha256": "df69cee453cc7fb02deee573fb70b15885eb2d92e2b7f371287f556a3e723648",
-  "size": 9269248
+  "notes": "• Card sorting → Pricing & settings → 🏷 Box label layout: its own label setup, separate from price labels — label size (now incl. DYMO 30323 2-1/8 × 4 in and 4XL 4 × 6 in, or a custom size), its own printer and label roll, text and barcode size, turn on the roll, nudge, and what to show (customer name, phone, game & cards, sort order, status, check-in date), with a live preview and Test print",
+  "url": "releases/LonestarOfferCreator-2.9.1.exe",
+  "sha256": "5a2c8e5b1fc546e5885afd621c3cec6e6cfaf64bc61f9501918e03efc2d256ca",
+  "size": 9275904
 }
