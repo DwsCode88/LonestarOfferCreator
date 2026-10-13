@@ -1,8 +1,8 @@
 {
-  "version": "2.7.0",
+  "version": "2.8.0",
   "released": "2026-10-13",
-  "notes": "Card sorting: Online requests \u2014 customers request sorting orders on the new card sorting website; check them in from Card sorting \u2192 Dashboard. Connect the site in Pricing & settings \u2192 Online requests.",
-  "url": "releases/LonestarOfferCreator-2.7.0.exe",
-  "sha256": "996379692880e7107ad8962c798f14c6c6f098a419dd6c8d6c31e266b8f7e883",
-  "size": 9207296
+  "notes": "• Card sorting: 🟦 Square invoice on an order — makes a Square invoice for the balance (or any amount) with a due date, emailed to the customer when there's an email\n• Square's API can't switch on partial payments, so the invoice is made as a draft and Square opens: Invoices → Drafts → open it → turn on Partial payments → Send\n• Every payment the customer makes on the invoice is added to the order's payments by itself (↻ Check payments to update now); remove invoice deletes the draft or cancels it in Square",
+  "url": "releases/LonestarOfferCreator-2.8.0.exe",
+  "sha256": "43b3a668592abb97cdc9cde4c93e6a92d0ea6d970d4ac7659ed5c3518fb97a11",
+  "size": 9240064
 }
