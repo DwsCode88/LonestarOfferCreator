@@ -1,8 +1,8 @@
 {
-  "version": "2.5.0",
+  "version": "2.6.0",
   "released": "2026-10-12",
-  "notes": "Print an offer as Full, First page only, or Condensed list. Bulk is now singles under $1 at $10 per 1000.",
-  "url": "releases/LonestarOfferCreator-2.5.0.exe",
-  "sha256": "d2096753697a98661a5cb436816604518f922d034ccf9958b7ba4abbc5a6bc83",
-  "size": 8870400
+  "notes": "New Card sorting tab (Ctrl+7) for the TCGplayer Roca sorter: quick check-in with live pricing, order tracking, payments, machine log, receipts, box labels and customer message templates.",
+  "url": "releases/LonestarOfferCreator-2.6.0.exe",
+  "sha256": "1958ebfa7085c0e9b083228a49f9cbe55974bff9851ad270a5fe6cd54af46f6d",
+  "size": 9034240
 }
