@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
+  "version": "2.6.1",
   "released": "2026-10-12",
-  "notes": "New Card sorting tab (Ctrl+7) for the TCGplayer Roca sorter: quick check-in with live pricing, order tracking, payments, machine log, receipts, box labels and customer message templates.",
-  "url": "releases/LonestarOfferCreator-2.6.0.exe",
-  "sha256": "1958ebfa7085c0e9b083228a49f9cbe55974bff9851ad270a5fe6cd54af46f6d",
-  "size": 9034240
+  "notes": "Email from the app: Settings \u2192 Email (Gmail, Outlook, Yahoo or any SMTP). Card sorting orders get a Send email button for the customer messages.",
+  "url": "releases/LonestarOfferCreator-2.6.1.exe",
+  "sha256": "0d65dd6db241504bf03d6065e0c489f455b4df69c31cef70f190dd465192de0c",
+  "size": 9151488
 }
