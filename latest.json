@@ -1,8 +1,8 @@
 {
-  "version": "2.8.0",
+  "version": "2.9.0",
   "released": "2026-10-13",
-  "notes": "• Card sorting: 🟦 Square invoice on an order — makes a Square invoice for the balance (or any amount) with a due date, emailed to the customer when there's an email\n• Square's API can't switch on partial payments, so the invoice is made as a draft and Square opens: Invoices → Drafts → open it → turn on Partial payments → Send\n• Every payment the customer makes on the invoice is added to the order's payments by itself (↻ Check payments to update now); remove invoice deletes the draft or cancels it in Square",
-  "url": "releases/LonestarOfferCreator-2.8.0.exe",
-  "sha256": "43b3a668592abb97cdc9cde4c93e6a92d0ea6d970d4ac7659ed5c3518fb97a11",
-  "size": 9240064
+  "notes": "• Card sorting: box labels and receipts now have a UPC barcode instead of a QR code — scan it with any barcode scanner into the order search to pull the order up\n• New sort workflow inside an order: status steps across the top, then each sort pass with ▶ Start on machine / ■ Finish pass (cards that went through) or ✓ Done by hand. Progress fills in by itself and finishing the last pass moves the order to Sorting Complete; the first pass's machine count becomes the actual card count\n• Square invoice → ✉ Email pay link: sends the invoice in Square (after you turn on Partial payments there) and emails the customer the pay link from the store's email (Settings → Email)",
+  "url": "releases/LonestarOfferCreator-2.9.0.exe",
+  "sha256": "df69cee453cc7fb02deee573fb70b15885eb2d92e2b7f371287f556a3e723648",
+  "size": 9269248
 }
