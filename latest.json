@@ -1,8 +1,8 @@
 {
-  "version": "2.10.2",
+  "version": "2.10.3",
   "released": "2026-10-15",
-  "notes": "• Price labels: the condition (and anything else at the end of a line) is no longer cut off — long lines wrap onto the next row instead of ending in “…”\n• Text size in Edit label layout now works: Small / Medium / Large / Huge and the price size change the label; it only shrinks everything when the label is full\n• Small 2-across labels (30333) also print the extra fields you tick (condition, set, …) under the name",
-  "url": "releases/LonestarOfferCreator-2.10.2.exe",
-  "sha256": "428eec7c7a3f971a85d8ec048266e4fbf60f2140fc55e90b0221718845526371",
-  "size": 9284608
+  "notes": "• The same card in different conditions is no longer treated as one card: CardUploader gives every copy the same TCGplayer SKU, so non-Near-Mint copies now get the condition added (e.g. TCG5150038-LP). They become separate items in Square with their own price and stock, and their labels scan to the right one. Near Mint SKUs don't change",
+  "url": "releases/LonestarOfferCreator-2.10.3.exe",
+  "sha256": "334513d0c900e062fd160f7a86c5e429c9d3fcaca63f3906f1662d2c7024b8d0",
+  "size": 9285632
 }
