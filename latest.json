@@ -1,8 +1,8 @@
 {
-  "version": "2.10.3",
+  "version": "2.11.0",
   "released": "2026-10-15",
-  "notes": "• The same card in different conditions is no longer treated as one card: CardUploader gives every copy the same TCGplayer SKU, so non-Near-Mint copies now get the condition added (e.g. TCG5150038-LP). They become separate items in Square with their own price and stock, and their labels scan to the right one. Near Mint SKUs don't change",
-  "url": "releases/LonestarOfferCreator-2.10.3.exe",
-  "sha256": "334513d0c900e062fd160f7a86c5e429c9d3fcaca63f3906f1662d2c7024b8d0",
-  "size": 9285632
+  "notes": "• New Inventory tab (Ctrl+8, next to Card sorting) with two sections:\n• 🔄 Reprice: pull cards off the shelf and 📠 Scan cards to reprice → ⚡ Send to CardUploader → export the CSV. It loads by itself, every SKU is found in Square and you see the Square price, stock, today's market and the new price (market + your label markup & rounding) with the change in $ and %. Cards that moved at least 5% and $0.25 are ticked (change the limits; type your own price on any card). Update prices in Square changes them all at once, then print new stickers for them\n• Cards from the scan that aren't in Square: one click moves them to Add to Square\n• ➕ Add to Square (no offer): scan cards the store already owns that aren't in Square → they're created in Square with price, stock and picture — no offer, no cost. Cards already in Square are left unticked (ticking adds to their stock). Print stickers right after\n• You can also drop or load any CardUploader / TCGplayer / Collectr CSV into either section; the lists are kept until you clear them",
+  "url": "releases/LonestarOfferCreator-2.11.0.exe",
+  "sha256": "9c83971be1e7e67be0a6b950fa1985c0c212a41e4e87ea1cba96488d380b515d",
+  "size": 9349120
 }
