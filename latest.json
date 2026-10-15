@@ -1,8 +1,8 @@
 {
-  "version": "2.4.1",
-  "released": "2026-10-14",
-  "notes": "Giveaway prizes: prizes for finishing a Discord card binder are listed (Card binders), and new kinds of bot prizes show up instead of being hidden.",
-  "url": "releases/LonestarOfferCreator-2.4.1.exe",
-  "sha256": "cca216a759fc8746f095916d7084f44e3ad02502dd58fe648c3f967e778f76a9",
-  "size": 9276928
+  "version": "2.10.0",
+  "released": "2026-10-15",
+  "notes": "• Card sorting → Box label layout is now a label designer: tick what goes on the label (order #, box N of N, customer name, phone, game & cards, card count, sort order, status, check-in date, promised date, order notes, store name), move lines up / down, pick each line's size and bold, and add your own text lines with {name}, {order}, {promised}… — the preview updates as you go\n• Barcode on the right, left, top, bottom or none\n• Small labels like DYMO 30332 (1 × 1 in) get a short barcode (Code 128, 8 digits) that fits and scans; it works in the order search like the UPC\n• Giveaway prizes: prizes for finishing a Discord card binder are listed (Card binders), and new kinds of bot prizes show up instead of being hidden",
+  "url": "releases/LonestarOfferCreator-2.10.0.exe",
+  "sha256": "5db0a808e6984b8bf97c5c136aa5835ccea562d446ab572fbb0b245dc2813254",
+  "size": 9285120
 }
