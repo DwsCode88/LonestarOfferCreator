@@ -1,8 +1,8 @@
 {
-  "version": "2.10.0",
+  "version": "2.10.1",
   "released": "2026-10-15",
-  "notes": "• Card sorting → Box label layout is now a label designer: tick what goes on the label (order #, box N of N, customer name, phone, game & cards, card count, sort order, status, check-in date, promised date, order notes, store name), move lines up / down, pick each line's size and bold, and add your own text lines with {name}, {order}, {promised}… — the preview updates as you go\n• Barcode on the right, left, top, bottom or none\n• Small labels like DYMO 30332 (1 × 1 in) get a short barcode (Code 128, 8 digits) that fits and scans; it works in the order search like the UPC\n• Giveaway prizes: prizes for finishing a Discord card binder are listed (Card binders), and new kinds of bot prizes show up instead of being hidden",
-  "url": "releases/LonestarOfferCreator-2.10.0.exe",
-  "sha256": "5db0a808e6984b8bf97c5c136aa5835ccea562d446ab572fbb0b245dc2813254",
-  "size": 9285120
+  "notes": "• Price / offer labels → Edit label layout is now a label designer: tick what prints (card name, set, number, grade, SKU, rarity, condition, store name, market price) and add your own text, put each on line 1–4 and pick its size, choose the price size (or no price), and the code: QR on the left or right, a barcode of the SKU at the bottom, or none. A bigger preview at the top shows the label as it will print (it warns when a barcode is too small to scan, e.g. on 1 × 1 in DYMO 30332)\n• Card sorting box labels are back to how they were in 2.9.2",
+  "url": "releases/LonestarOfferCreator-2.10.1.exe",
+  "sha256": "ea81c30c19ee1c3ba2f0f85ece78e1a26783af8b2813c4991efe27a7785d193c",
+  "size": 9284096
 }
