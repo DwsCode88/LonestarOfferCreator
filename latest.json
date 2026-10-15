@@ -1,8 +1,8 @@
 {
-  "version": "2.10.1",
+  "version": "2.10.2",
   "released": "2026-10-15",
-  "notes": "• Price / offer labels → Edit label layout is now a label designer: tick what prints (card name, set, number, grade, SKU, rarity, condition, store name, market price) and add your own text, put each on line 1–4 and pick its size, choose the price size (or no price), and the code: QR on the left or right, a barcode of the SKU at the bottom, or none. A bigger preview at the top shows the label as it will print (it warns when a barcode is too small to scan, e.g. on 1 × 1 in DYMO 30332)\n• Card sorting box labels are back to how they were in 2.9.2",
-  "url": "releases/LonestarOfferCreator-2.10.1.exe",
-  "sha256": "ea81c30c19ee1c3ba2f0f85ece78e1a26783af8b2813c4991efe27a7785d193c",
-  "size": 9284096
+  "notes": "• Price labels: the condition (and anything else at the end of a line) is no longer cut off — long lines wrap onto the next row instead of ending in “…”\n• Text size in Edit label layout now works: Small / Medium / Large / Huge and the price size change the label; it only shrinks everything when the label is full\n• Small 2-across labels (30333) also print the extra fields you tick (condition, set, …) under the name",
+  "url": "releases/LonestarOfferCreator-2.10.2.exe",
+  "sha256": "428eec7c7a3f971a85d8ec048266e4fbf60f2140fc55e90b0221718845526371",
+  "size": 9284608
 }
