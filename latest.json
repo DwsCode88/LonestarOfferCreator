@@ -1,8 +1,8 @@
 {
-  "version": "2.13.0",
+  "version": "2.13.1",
   "released": "2026-10-16",
-  "notes": "• 3D printing: click a new website order to review it before anything changes — customer, their note, every file with its settings and estimate, and a 3D preview of each model (drag to turn, scroll to zoom). Take in or Decline from there\n• “Your own filament”: customers can bring their own spool — no filament charge, $15 per print hour (Pricing & settings → Own filament $ / print hour, or the website's /admin page). The suggested price uses it",
-  "url": "releases/LonestarOfferCreator-2.13.0.exe",
-  "sha256": "7018a0858d3416da2cae8fb9de0376c416ab58ca241e758aed4c16c498b29367",
-  "size": 9515520
+  "notes": "• “Your own filament” now protects the printer: $2.50 per print hour plus a $7.50 handling fee per order (both in 3D printing → Pricing & settings, or the website's /admin page)\n• Own-filament rules (sealed spool, PLA / PETG / TPU, nothing abrasive, failed prints still charged, $20 clog fee) — customers must tick “I agree” on the website before ordering; edit the rules in Pricing & settings\n• Website orders with own filament show whether the customer agreed, and the suggested price includes the handling fee",
+  "url": "releases/LonestarOfferCreator-2.13.1.exe",
+  "sha256": "9a783cb78223b53300203f2ef35d41f956a27b5f5d3798553e83761e02214ced",
+  "size": 9519616
 }
