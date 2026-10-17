@@ -1,8 +1,8 @@
 {
-  "version": "2.14.0",
-  "released": "2026-10-16",
-  "notes": "• 3D printing: ⚡ Priority — customers can pay extra on the website to go next on the printer (+50%, at least $10, ready in about 2 days). Priority jobs are marked ⚡ and listed first; the suggested price includes the fee; turn it on/off per job\n• 🖨 Printers: pick which printer each job is on (Bambu Lab P1S / X2D). The 3D printing tab shows each printer — what it's printing, how many jobs and hours are waiting\n• The website shows customers the real wait for a standard order, from the hours of printing waiting on your printers\n• New default prices: $3.00 per print hour, own filament $3.50 per print hour (change in Pricing & settings)\n• Pricing & settings: Priority %, minimum and days, the list of printers, print hours per printer per day",
-  "url": "releases/LonestarOfferCreator-2.14.0.exe",
-  "sha256": "a9971b88a04557028be390c73351922ba515ef2f9c2486084d96a64273f8f00a",
-  "size": 9533440
+  "version": "2.14.1",
+  "released": "2026-10-17",
+  "notes": "• 3D printing: 40% markup added on top of the print cost (filament + print time) of every part — on the website and in the suggested price. Change it in Pricing & settings → Markup % (or the website's /admin page)",
+  "url": "releases/LonestarOfferCreator-2.14.1.exe",
+  "sha256": "4c81a479fb4135bf033293298b3cb5a906ce30aeda4015e1fcda11fb9fddb297",
+  "size": 9534464
 }
