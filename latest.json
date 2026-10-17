@@ -1,8 +1,8 @@
 {
-  "version": "2.12.1",
+  "version": "2.13.0",
   "released": "2026-10-16",
-  "notes": "• 3D printing → Pricing & settings loads the prices from the 3D print website when you open it, so changes made on the website's new /admin page aren't undone when you save here",
-  "url": "releases/LonestarOfferCreator-2.12.1.exe",
-  "sha256": "e360695fd9a5c8ccc4c90f87b473a7080e7c25937f6611abcfa4305659daf156",
-  "size": 9478656
+  "notes": "• 3D printing: click a new website order to review it before anything changes — customer, their note, every file with its settings and estimate, and a 3D preview of each model (drag to turn, scroll to zoom). Take in or Decline from there\n• “Your own filament”: customers can bring their own spool — no filament charge, $15 per print hour (Pricing & settings → Own filament $ / print hour, or the website's /admin page). The suggested price uses it",
+  "url": "releases/LonestarOfferCreator-2.13.0.exe",
+  "sha256": "7018a0858d3416da2cae8fb9de0376c416ab58ca241e758aed4c16c498b29367",
+  "size": 9515520
 }
