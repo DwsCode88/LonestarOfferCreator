@@ -1,8 +1,8 @@
 {
-  "version": "2.13.2",
+  "version": "2.14.0",
   "released": "2026-10-16",
-  "notes": "• 3D printing: website orders can take a deposit through the store's Shopify — after sending the order the customer goes straight to Shopify checkout for 50% of the estimate (at least $10). Website orders show “deposit paid” or “not paid yet”; taking a paid order in records the deposit as a payment on the job\n• Deposit on/off, % and minimum: 3D printing → Pricing & settings (or the website's /admin page)",
-  "url": "releases/LonestarOfferCreator-2.13.2.exe",
-  "sha256": "6a9d7c300a474f186ff897687f43bbbc7bbe61bb68b429eb2a0e0027d40b5254",
-  "size": 9523200
+  "notes": "• 3D printing: ⚡ Priority — customers can pay extra on the website to go next on the printer (+50%, at least $10, ready in about 2 days). Priority jobs are marked ⚡ and listed first; the suggested price includes the fee; turn it on/off per job\n• 🖨 Printers: pick which printer each job is on (Bambu Lab P1S / X2D). The 3D printing tab shows each printer — what it's printing, how many jobs and hours are waiting\n• The website shows customers the real wait for a standard order, from the hours of printing waiting on your printers\n• New default prices: $3.00 per print hour, own filament $3.50 per print hour (change in Pricing & settings)\n• Pricing & settings: Priority %, minimum and days, the list of printers, print hours per printer per day",
+  "url": "releases/LonestarOfferCreator-2.14.0.exe",
+  "sha256": "a9971b88a04557028be390c73351922ba515ef2f9c2486084d96a64273f8f00a",
+  "size": 9533440
 }
