@@ -1,8 +1,8 @@
 {
-  "version": "2.12.0",
+  "version": "2.12.1",
   "released": "2026-10-16",
-  "notes": "• New 3D printing tab (Ctrl+9) for the 3D print service: orders from the new 3D print website show up here — Take in downloads the customer's model files into Documents\\Lonestar 3D Prints\\<job> and starts a job (PJ1001…)\n• Each job: the customer's parts (material, color, quality, infill, size, quantity) with the website's estimate; type the slicer's grams + hours to get a suggested price, set the price, statuses Received → Quoted → Printing → Ready for Pickup → Picked Up, payments, 📂 Open folder\n• Price confirmed / Ready for pickup messages to email (from your store email) or copy for a text\n• Walk-in jobs for customers who ask in the store\n• Pricing & settings: materials ($ per 100 g, colors), machine $ per hour, setup fee, minimum, qualities, infill choices, build size — saving updates the website's instant quote",
-  "url": "releases/LonestarOfferCreator-2.12.0.exe",
-  "sha256": "8a6431d8f85ae5a24084639ff1380df90fc933f141ad05410e8a7257d462f344",
-  "size": 9469440
+  "notes": "• 3D printing → Pricing & settings loads the prices from the 3D print website when you open it, so changes made on the website's new /admin page aren't undone when you save here",
+  "url": "releases/LonestarOfferCreator-2.12.1.exe",
+  "sha256": "e360695fd9a5c8ccc4c90f87b473a7080e7c25937f6611abcfa4305659daf156",
+  "size": 9478656
 }
