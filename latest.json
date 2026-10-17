@@ -1,8 +1,8 @@
 {
-  "version": "2.13.1",
+  "version": "2.13.2",
   "released": "2026-10-16",
-  "notes": "• “Your own filament” now protects the printer: $2.50 per print hour plus a $7.50 handling fee per order (both in 3D printing → Pricing & settings, or the website's /admin page)\n• Own-filament rules (sealed spool, PLA / PETG / TPU, nothing abrasive, failed prints still charged, $20 clog fee) — customers must tick “I agree” on the website before ordering; edit the rules in Pricing & settings\n• Website orders with own filament show whether the customer agreed, and the suggested price includes the handling fee",
-  "url": "releases/LonestarOfferCreator-2.13.1.exe",
-  "sha256": "9a783cb78223b53300203f2ef35d41f956a27b5f5d3798553e83761e02214ced",
-  "size": 9519616
+  "notes": "• 3D printing: website orders can take a deposit through the store's Shopify — after sending the order the customer goes straight to Shopify checkout for 50% of the estimate (at least $10). Website orders show “deposit paid” or “not paid yet”; taking a paid order in records the deposit as a payment on the job\n• Deposit on/off, % and minimum: 3D printing → Pricing & settings (or the website's /admin page)",
+  "url": "releases/LonestarOfferCreator-2.13.2.exe",
+  "sha256": "6a9d7c300a474f186ff897687f43bbbc7bbe61bb68b429eb2a0e0027d40b5254",
+  "size": 9523200
 }
