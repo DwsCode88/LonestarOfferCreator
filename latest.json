@@ -1,8 +1,8 @@
 {
-  "version": "2.15.0",
+  "version": "2.15.1",
   "released": "2026-10-17",
-  "notes": "• 👥 Staff page: every 3D print job, hold bag and card sorting order is copied to the card sorting website a few seconds after each change — open <website>/staff on any computer or phone to look them up (customer, cards / parts, payments, dates, history). View only; changes are still made here. Card sorting → Pricing & settings → Online requests shows the link and when it last copied; 👥 Staff page buttons on Hold bags and 3D printing. Sign in with STAFF_PASSWORD (set it on the website in Vercel)\n• 🎟 Hold ticket for customers: letter page cut in half — customer copy (cards, total, deposit, paid, balance due date, release date, what happens if unpaid, pay-online QR) and a store copy with a signature line. Open a hold → 🎟 Hold ticket",
-  "url": "releases/LonestarOfferCreator-2.15.0.exe",
-  "sha256": "4b6c9e6e62c3bd86677535dae95ce0a3ffef4e47012ea96893f10f4c361e5b0c",
-  "size": 9559552
+  "notes": "• 👥 Staff page button (Hold bags, 3D printing) now sends every hold, 3D job and sorting order to the website right away and says how many went — or why it couldn't (e.g. the card sorting website isn't connected yet: it takes you to Card sorting → Pricing & settings → Online requests)",
+  "url": "releases/LonestarOfferCreator-2.15.1.exe",
+  "sha256": "43ed58fbdbd5a7b1c66d242a76fa0d106aaf8499178c7f8b2b7f267b2a0368aa",
+  "size": 9562624
 }
