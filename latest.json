@@ -1,8 +1,8 @@
 {
-  "version": "2.15.3",
+  "version": "2.15.4",
   "released": "2026-10-19",
-  "notes": "• Hold bags: 🔒 Put in safe (override) — put a hold in the safe before the deposit (or full payment) is paid. It asks why; the reason, your initials and the time are saved on the hold (shown on the hold and the staff page)",
-  "url": "releases/LonestarOfferCreator-2.15.3.exe",
-  "sha256": "574d029a0e7559287a16e4e4acee8e0acc0a3b97a21e35deb7a4c8b3959462bb",
-  "size": 9567232
+  "notes": "• Hold bags: deposit amount override — on a new hold type a different deposit (and why) under the totals; the Square invoice asks for that amount\n• Open holds: ✏ Change deposit (while the deposit isn't paid yet) sets a new amount and updates the Square invoice too. Every change is saved on the hold with your initials, the time and the reason",
+  "url": "releases/LonestarOfferCreator-2.15.4.exe",
+  "sha256": "2cd8e4cfd58e4be92005444e4d2ee629d78f20324a43596d8374b12a76bfbe54",
+  "size": 9582592
 }
