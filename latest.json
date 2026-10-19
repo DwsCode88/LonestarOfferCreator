@@ -1,8 +1,8 @@
 {
-  "version": "2.15.2",
+  "version": "2.15.3",
   "released": "2026-10-19",
-  "notes": "• Prices sent to Square and printed on price labels now round UP to the next whole dollar — every price, including cheap cards (e.g. $3.47 → $4, $174.20 → $175, $0.30 → $1). Change it in Labels → Edit label layout → Rounding. Offer amounts (cash / trade) are not rounded",
-  "url": "releases/LonestarOfferCreator-2.15.2.exe",
-  "sha256": "751fc6d65e4d2c290c769c117181a1eafeea2cbe618a074fbbd45f6339291cef",
-  "size": 9562624
+  "notes": "• Hold bags: 🔒 Put in safe (override) — put a hold in the safe before the deposit (or full payment) is paid. It asks why; the reason, your initials and the time are saved on the hold (shown on the hold and the staff page)",
+  "url": "releases/LonestarOfferCreator-2.15.3.exe",
+  "sha256": "574d029a0e7559287a16e4e4acee8e0acc0a3b97a21e35deb7a4c8b3959462bb",
+  "size": 9567232
 }
