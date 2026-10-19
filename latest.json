@@ -1,8 +1,8 @@
 {
-  "version": "2.15.1",
-  "released": "2026-10-17",
-  "notes": "• 👥 Staff page button (Hold bags, 3D printing) now sends every hold, 3D job and sorting order to the website right away and says how many went — or why it couldn't (e.g. the card sorting website isn't connected yet: it takes you to Card sorting → Pricing & settings → Online requests)",
-  "url": "releases/LonestarOfferCreator-2.15.1.exe",
-  "sha256": "43ed58fbdbd5a7b1c66d242a76fa0d106aaf8499178c7f8b2b7f267b2a0368aa",
+  "version": "2.15.2",
+  "released": "2026-10-19",
+  "notes": "• Prices sent to Square and printed on price labels now round UP to the next whole dollar — every price, including cheap cards (e.g. $3.47 → $4, $174.20 → $175, $0.30 → $1). Change it in Labels → Edit label layout → Rounding. Offer amounts (cash / trade) are not rounded",
+  "url": "releases/LonestarOfferCreator-2.15.2.exe",
+  "sha256": "751fc6d65e4d2c290c769c117181a1eafeea2cbe618a074fbbd45f6339291cef",
   "size": 9562624
 }
