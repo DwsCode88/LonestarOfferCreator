@@ -1,8 +1,8 @@
 {
-  "version": "2.15.7",
+  "version": "2.15.8",
   "released": "2026-10-19",
-  "notes": "• Card sorting: new add-on Card dividers ($5) — only shows up at check-in when the order is sorted 2 or more ways. Any add-on can be limited the same way: Pricing & settings → Add-on fees, e.g. Card dividers = 5 (2+ sorts)\n• Opening the Card sorting tab sends the new prices and add-ons to the website",
-  "url": "releases/LonestarOfferCreator-2.15.7.exe",
-  "sha256": "63b8d66c005e9c8c042fc78b8a8af4e7219db6155d22261735a18b7db670b85f",
-  "size": 9589760
+  "notes": "• Card sorting prices can now be changed on the website from any computer or phone: sort.lscards.com/staff → 💲 Sorting prices (staff password). The request page uses them right away, and this app takes them the next time Card sorting is opened — it no longer overwrites newer prices from the website",
+  "url": "releases/LonestarOfferCreator-2.15.8.exe",
+  "sha256": "485aea040d3625a3c6672d03250d3a5e944a8fc0a4b1a8eaa221ed0e0e711ef2",
+  "size": 9598976
 }
