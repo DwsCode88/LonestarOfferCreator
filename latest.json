@@ -1,8 +1,8 @@
 {
-  "version": "2.15.9",
+  "version": "2.15.10",
   "released": "2026-10-20",
-  "notes": "• Offer creator: 🤖 Roca Sifter — drop the Sifter's Scan & Identify (Matched to Catalog) CSVs (one per game, e.g. …-MTG-….csv and …-PKM-….csv) into one offer. The game comes from the file name, each copy of a card is added up into one line with its quantity, the Listing Price is the market price, and the Sifter's TCGplayer ID is the SKU (it's already the SKU for that condition)\n• The same CSVs also load in Labels and Inventory",
-  "url": "releases/LonestarOfferCreator-2.15.9.exe",
-  "sha256": "6df1bc9167a2a7b84d9afa54c19b705cfa48b2464db207b903144b4f4ef212f8",
-  "size": 9602048
+  "notes": "• Roca Sifter files: pick which bins go in the offer — each Sifter file shows its bins (e.g. Bin1 · 29 cards · $81.50, Bin2 · 31 cards · $12.50). Tick a bin to add all its cards to the offer, untick to take them out",
+  "url": "releases/LonestarOfferCreator-2.15.10.exe",
+  "sha256": "bb0c9672f4ac4d47d56e6789fddf74ff973ba160d0aececdca94d5efad6f2c82",
+  "size": 9603584
 }
