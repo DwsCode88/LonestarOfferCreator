@@ -1,8 +1,8 @@
 {
-  "version": "2.15.4",
+  "version": "2.15.5",
   "released": "2026-10-19",
-  "notes": "• Hold bags: deposit amount override — on a new hold type a different deposit (and why) under the totals; the Square invoice asks for that amount\n• Open holds: ✏ Change deposit (while the deposit isn't paid yet) sets a new amount and updates the Square invoice too. Every change is saved on the hold with your initials, the time and the reason",
-  "url": "releases/LonestarOfferCreator-2.15.4.exe",
-  "sha256": "2cd8e4cfd58e4be92005444e4d2ee629d78f20324a43596d8374b12a76bfbe54",
-  "size": 9582592
+  "notes": "• Card sorting: new prices — up to 500 cards $25, 1,000 $40, 2,000 $70, 3,000 $95, 5,000 $145, 10,000 $260 (extra passes still 75%). Switched over by itself if you were still on the old prices; prices you changed yourself are kept. The website is updated too; orders already checked in keep their quote\n• New add-ons at check-in: Desleeving $2 per 100 cards, Rush (1–2 days) +50% of the sorting price. Add-ons can now be flat ($), per 100 cards (e.g. Desleeving = 2/100) or a % (e.g. Rush = 50%) — Pricing & settings → Add-on fees",
+  "url": "releases/LonestarOfferCreator-2.15.5.exe",
+  "sha256": "1aa2493db103a63f6ace79cdedabbbea8c5455450bfb22deeb2d80c7ed344005",
+  "size": 9586688
 }
