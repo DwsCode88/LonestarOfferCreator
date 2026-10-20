@@ -1,8 +1,8 @@
 {
-  "version": "2.15.8",
-  "released": "2026-10-19",
-  "notes": "• Card sorting prices can now be changed on the website from any computer or phone: sort.lscards.com/staff → 💲 Sorting prices (staff password). The request page uses them right away, and this app takes them the next time Card sorting is opened — it no longer overwrites newer prices from the website",
-  "url": "releases/LonestarOfferCreator-2.15.8.exe",
-  "sha256": "485aea040d3625a3c6672d03250d3a5e944a8fc0a4b1a8eaa221ed0e0e711ef2",
-  "size": 9598976
+  "version": "2.15.9",
+  "released": "2026-10-20",
+  "notes": "• Offer creator: 🤖 Roca Sifter — drop the Sifter's Scan & Identify (Matched to Catalog) CSVs (one per game, e.g. …-MTG-….csv and …-PKM-….csv) into one offer. The game comes from the file name, each copy of a card is added up into one line with its quantity, the Listing Price is the market price, and the Sifter's TCGplayer ID is the SKU (it's already the SKU for that condition)\n• The same CSVs also load in Labels and Inventory",
+  "url": "releases/LonestarOfferCreator-2.15.9.exe",
+  "sha256": "6df1bc9167a2a7b84d9afa54c19b705cfa48b2464db207b903144b4f4ef212f8",
+  "size": 9602048
 }
