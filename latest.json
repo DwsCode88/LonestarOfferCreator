@@ -1,8 +1,8 @@
 {
-  "version": "2.15.6",
+  "version": "2.15.7",
   "released": "2026-10-19",
-  "notes": "• Card sorting: removed the Desleeving add-on — the Roca Sifter sorts sleeved cards. Rush (+50%) stays; other add-ons you added are kept (and fixed if 2.15.5 mixed the new add-ons into them)",
-  "url": "releases/LonestarOfferCreator-2.15.6.exe",
-  "sha256": "b9ec91823c657a6089550d7c86a7524fd3875ac17d124f2c13fb1beeb8000657",
-  "size": 9587200
+  "notes": "• Card sorting: new add-on Card dividers ($5) — only shows up at check-in when the order is sorted 2 or more ways. Any add-on can be limited the same way: Pricing & settings → Add-on fees, e.g. Card dividers = 5 (2+ sorts)\n• Opening the Card sorting tab sends the new prices and add-ons to the website",
+  "url": "releases/LonestarOfferCreator-2.15.7.exe",
+  "sha256": "63b8d66c005e9c8c042fc78b8a8af4e7219db6155d22261735a18b7db670b85f",
+  "size": 9589760
 }
