@@ -1,8 +1,8 @@
 {
-  "version": "2.16.1",
+  "version": "2.17.0",
   "released": "2026-10-20",
-  "notes": "• Organized Play: the Pokémon button opens Play! Pokémon Tools (play-tools.pokemon.com)",
-  "url": "releases/LonestarOfferCreator-2.16.1.exe",
-  "sha256": "9441b6080f46d727a5704efa571c10e613ba49330009463b9be3beba9e8f3018",
-  "size": 9624576
+  "notes": "• Front of house / back of house: Settings → This PC. Set the back-room PC (scanners, Twin Turbo, printer) to Back of house — it keeps all the offers, holds, sorting orders, 3D jobs and settings and shows an address + key. On the front-desk PC pick Front of house and type them in: both PCs then see the same data live\n• The front desk prints on its own label maker and on the back room's printers (they show as \"Back room · …\" in Settings → Printers) — no Windows printer sharing needed\n• Each PC chooses its own tabs (front desk hides Scan, Labels and Inventory by default) and its own printers\n• A red \"Back PC offline\" tag shows on the front desk if the back PC is off",
+  "url": "releases/LonestarOfferCreator-2.17.0.exe",
+  "sha256": "88f750be8efef0ee0e8f2b84b9fed7e1c631b08e73a4f8f57abd2c6c69932535",
+  "size": 9767936
 }
