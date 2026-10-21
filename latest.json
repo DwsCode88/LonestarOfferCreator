@@ -1,8 +1,8 @@
 {
-  "version": "2.15.10",
+  "version": "2.16.0",
   "released": "2026-10-20",
-  "notes": "• Roca Sifter files: pick which bins go in the offer — each Sifter file shows its bins (e.g. Bin1 · 29 cards · $81.50, Bin2 · 31 cards · $12.50). Tick a bin to add all its cards to the offer, untick to take them out",
-  "url": "releases/LonestarOfferCreator-2.15.10.exe",
-  "sha256": "bb0c9672f4ac4d47d56e6789fddf74ff973ba160d0aececdca94d5efad6f2c82",
-  "size": 9603584
+  "notes": "• Printing: Settings → Printers → \"Which printer prints what\" — send each kind of print to its own printer and roll: offer sheets, hold tickets, safe sheet, sorting receipts/queue, giveaway sheet, gift card slips, price labels, bag tags, sorting box labels, giveaway stickers (e.g. price labels on the front-desk label maker, bag tags on the back room Twin Turbo). Printers shared from another PC show up once added in Windows\n• New Organized Play tab: Tourney Tracker check-in camera (webcam) and staff pages, Bandai TCG+ organizer, Wizards EventLink and Play! Pokémon, each in its own window that stays signed in. ✎ Edit links to change or add sites\n• 📲 Show on iPad (offer summary and draft): show the offer full screen on the iPad instead of printing — totals plus every card with its picture and offer. On the iPad: sort.lscards.com/staff/show",
+  "url": "releases/LonestarOfferCreator-2.16.0.exe",
+  "sha256": "a1711949744f340d5f587b6477b27099d864cc4dbcb13edd9bb88c11bd8184f5",
+  "size": 9624064
 }
