@@ -1,8 +1,8 @@
 {
-  "version": "2.17.2",
+  "version": "2.18.0",
   "released": "2026-10-21",
-  "notes": "• 📲 Show on iPad: when this PC isn't connected to the store website yet, it now asks for the website key right there (one time) and then shows the offer — instead of jumping to Card sorting settings. On the front-desk PC it says to connect it on the back PC",
-  "url": "releases/LonestarOfferCreator-2.17.2.exe",
-  "sha256": "926962bf9acdbbb6f564db7a3581317e956fa4b1116c9f1056efce0a7b67748c",
-  "size": 9786368
+  "notes": "• New buy / trade flow: customers fill in a form on the iPad or a kiosk (name, phone, email, sell or trade, what they brought) and get a ticket number. Open the form from Offer creator → 🧾 Customers at the counter → Open customer form\n• The back PC sees them under 🧾 Customers at the counter (how long each has waited) — ▶ Start makes the offer with their name and games and goes to Scan\n• Each ticket moves along by itself — Waiting → Scanning → Pricing → Offer ready → Accepted → Done — on the Board (website /staff/buy/board)\n• On the iPad the customer taps Cash / Store credit / E-gift card, reads the authorization, types their name and signs with a finger (parent/guardian too if under 18), or taps No thanks. The card list shows like the printout\n• The signature comes back into the offer within seconds: it's marked accepted and the printout shows the ticked choice, signature, name and date",
+  "url": "releases/LonestarOfferCreator-2.18.0.exe",
+  "sha256": "14386452ef4cf1b31c01bcb3bb1423b9b607df331b2630f55c1aaaae508b3164",
+  "size": 9809408
 }
