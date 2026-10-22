@@ -1,8 +1,8 @@
 {
-  "version": "2.17.1",
+  "version": "2.17.2",
   "released": "2026-10-21",
-  "notes": "• Organized Play: this PC keeps the Tourney Tracker staff login code (✎ Edit links → paste the staff link or code once; stored encrypted on this PC only). Check-in camera and staff pages sign in by themselves — no more scanning the staff QR. If the code is changed in Tourney Tracker, the app says so and you paste the new one",
-  "url": "releases/LonestarOfferCreator-2.17.1.exe",
-  "sha256": "abe7c7d93240eab78cb476784704394cab4aecf52cfbebb4618151b1a653e4a5",
-  "size": 9784320
+  "notes": "• 📲 Show on iPad: when this PC isn't connected to the store website yet, it now asks for the website key right there (one time) and then shows the offer — instead of jumping to Card sorting settings. On the front-desk PC it says to connect it on the back PC",
+  "url": "releases/LonestarOfferCreator-2.17.2.exe",
+  "sha256": "926962bf9acdbbb6f564db7a3581317e956fa4b1116c9f1056efce0a7b67748c",
+  "size": 9786368
 }
