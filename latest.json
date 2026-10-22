@@ -1,8 +1,8 @@
 {
-  "version": "2.18.0",
-  "released": "2026-10-21",
-  "notes": "• New buy / trade flow: customers fill in a form on the iPad or a kiosk (name, phone, email, sell or trade, what they brought) and get a ticket number. Open the form from Offer creator → 🧾 Customers at the counter → Open customer form\n• The back PC sees them under 🧾 Customers at the counter (how long each has waited) — ▶ Start makes the offer with their name and games and goes to Scan\n• Each ticket moves along by itself — Waiting → Scanning → Pricing → Offer ready → Accepted → Done — on the Board (website /staff/buy/board)\n• On the iPad the customer taps Cash / Store credit / E-gift card, reads the authorization, types their name and signs with a finger (parent/guardian too if under 18), or taps No thanks. The card list shows like the printout\n• The signature comes back into the offer within seconds: it's marked accepted and the printout shows the ticked choice, signature, name and date",
-  "url": "releases/LonestarOfferCreator-2.18.0.exe",
-  "sha256": "14386452ef4cf1b31c01bcb3bb1423b9b607df331b2630f55c1aaaae508b3164",
-  "size": 9809408
+  "version": "2.18.1",
+  "released": "2026-10-22",
+  "notes": "• Square upload from an offer: cards under the bulk price ($1) were silently left out (Settings → Square → \"Don't upload bulk cards\" — the box could even show unticked while it was on). Now every upload says how many bulk cards there are and asks: Yes, add them / Leave bulk out. Their stock goes in with the full count (e.g. 10 × Pikachu 030/128), price rounded up like the labels",
+  "url": "releases/LonestarOfferCreator-2.18.1.exe",
+  "sha256": "ab8c9c3b11c047aaabadf275adfc477e9ea327d713040109db15dab41e03e1dc",
+  "size": 9811456
 }
