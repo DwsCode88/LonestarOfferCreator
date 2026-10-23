@@ -1,8 +1,8 @@
 {
-  "version": "2.21.0",
+  "version": "2.21.1",
   "released": "2026-10-23",
-  "notes": "• ✎ Custom offer (Draft): type the cash and/or store-credit total you agreed with the customer — every card's amount is adjusted so it adds up exactly on the printout, the iPad and the Square unit cost. Shows the calculated offer next to it; Remove goes back\n• 🧾 End of day (Tickets tab, or File → End-of-day buys): prints every offer accepted on a day — time, offer / ticket, customer, paid as, cards, market, amount, signed / Square / gift card — with cash paid out, store credit, e-gift and total bought, plus every card under each buy. Pick its printer in Settings → Printers → End-of-day buys",
-  "url": "releases/LonestarOfferCreator-2.21.0.exe",
-  "sha256": "bf9d708a82a5a0312b2cbacb0539e73a635c38bed5ce418dbce480875935ffca",
-  "size": 9861632
+  "notes": "• Tickets: cancelled and declined tickets come off the board into their own Cancelled / declined list (button above the board). Cancelling from a ticket goes back to the board",
+  "url": "releases/LonestarOfferCreator-2.21.1.exe",
+  "sha256": "68ea4f22ea638c3fd7d88451a9307edbee6c27a746fcd01d1ff7496e54886882",
+  "size": 9863168
 }
