@@ -1,8 +1,8 @@
 {
-  "version": "2.19.2",
+  "version": "2.19.3",
   "released": "2026-10-22",
-  "notes": "• Ticket bin / bag labels now use a normal barcode (no QR): a wide barcode of the ticket number across the bottom with the number printed under it — any barcode scanner reads it into Tickets search to open the ticket",
-  "url": "releases/LonestarOfferCreator-2.19.2.exe",
-  "sha256": "58a8817aa686a763af7d2657be3a94807adaf8159d169eec02c31874a0fef4d5",
-  "size": 9843712
+  "notes": "• When a customer sends the counter form on the iPad / kiosk, their bin / bag label prints by itself within a few seconds (ticket number, name, barcode). It prints on one PC only: the front desk (or your only PC) by default — switch it per PC in Tickets → 🏷 Print label when a customer sends the form\n• Starting a ticket doesn't print a second label if one already printed",
+  "url": "releases/LonestarOfferCreator-2.19.3.exe",
+  "sha256": "88bddbdd8095fb88af4ed4579fe8459a7ea3a97036bf9c15bbea1103d4496644",
+  "size": 9845760
 }
