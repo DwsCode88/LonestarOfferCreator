@@ -1,8 +1,8 @@
 {
-  "version": "2.19.1",
+  "version": "2.19.2",
   "released": "2026-10-22",
-  "notes": "• 🏷 Ticket bin / bag label: big ticket number, customer name, phone, sell / trade, what they brought and the time in, with a QR code and barcode of the ticket number. Prints by itself when you start a ticket (Tickets → 🏷 Label on start), or from the ticket (pick how many — one per bin or bag, numbered 1 of 3…) and the ticket bar\n• Scan a bin label into the Tickets search box (or type BT1004 + Enter) to open that customer's ticket\n• Choose the printer and roll for these labels in Settings → Printers → Ticket bin / bag labels (default: Labels printer, DYMO 30256)",
-  "url": "releases/LonestarOfferCreator-2.19.1.exe",
-  "sha256": "d29dc1118aebc3527ee530d4e0a1e2329e9a31430e7af3ca12824d01c2da91fb",
-  "size": 9843200
+  "notes": "• Ticket bin / bag labels now use a normal barcode (no QR): a wide barcode of the ticket number across the bottom with the number printed under it — any barcode scanner reads it into Tickets search to open the ticket",
+  "url": "releases/LonestarOfferCreator-2.19.2.exe",
+  "sha256": "58a8817aa686a763af7d2657be3a94807adaf8159d169eec02c31874a0fef4d5",
+  "size": 9843712
 }
