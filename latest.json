@@ -1,8 +1,8 @@
 {
-  "version": "2.20.1",
+  "version": "2.21.0",
   "released": "2026-10-23",
-  "notes": "• Website key from any PC: Tickets → 🔑 Website key (and the button next to a \"didn't accept the key\" message) lets you paste the SORTING_API_KEY — on the front-desk PC it's saved on the back PC so both use it. Show on iPad asks for it on the front desk too",
-  "url": "releases/LonestarOfferCreator-2.20.1.exe",
-  "sha256": "57c3cf9a2759c4d406fbe013457c424e1f960c1457d432c4aca9ea8ba45f010d",
-  "size": 9849856
+  "notes": "• ✎ Custom offer (Draft): type the cash and/or store-credit total you agreed with the customer — every card's amount is adjusted so it adds up exactly on the printout, the iPad and the Square unit cost. Shows the calculated offer next to it; Remove goes back\n• 🧾 End of day (Tickets tab, or File → End-of-day buys): prints every offer accepted on a day — time, offer / ticket, customer, paid as, cards, market, amount, signed / Square / gift card — with cash paid out, store credit, e-gift and total bought, plus every card under each buy. Pick its printer in Settings → Printers → End-of-day buys",
+  "url": "releases/LonestarOfferCreator-2.21.0.exe",
+  "sha256": "bf9d708a82a5a0312b2cbacb0539e73a635c38bed5ce418dbce480875935ffca",
+  "size": 9861632
 }
