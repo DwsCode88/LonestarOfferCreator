@@ -1,8 +1,8 @@
 {
-  "version": "2.20.0",
-  "released": "2026-10-22",
-  "notes": "• The offer now lives inside the customer's ticket: open a ticket and the strip under the header switches between 🧾 Ticket · 📠 Scan · 🃏 Cards · ✏️ Draft · 📄 Offer sheet — all for that customer. ← Tickets goes back to the board\n• The ticket opens as a full page (Cancel / Done at the top, Close at the bottom) and its offer is loaded for you\n• The app opens on Tickets; the separate Offer creator tab is hidden — use Quick offer (no ticket) on the Tickets tab for offers without a customer ticket, or turn the tab back on in Settings → This PC",
-  "url": "releases/LonestarOfferCreator-2.20.0.exe",
-  "sha256": "3bc1e8bb00ad5bb9336abccda7c9871edfad0d3f5c906aab49056db25bb0740b",
-  "size": 9849344
+  "version": "2.20.1",
+  "released": "2026-10-23",
+  "notes": "• Website key from any PC: Tickets → 🔑 Website key (and the button next to a \"didn't accept the key\" message) lets you paste the SORTING_API_KEY — on the front-desk PC it's saved on the back PC so both use it. Show on iPad asks for it on the front desk too",
+  "url": "releases/LonestarOfferCreator-2.20.1.exe",
+  "sha256": "57c3cf9a2759c4d406fbe013457c424e1f960c1457d432c4aca9ea8ba45f010d",
+  "size": 9849856
 }
