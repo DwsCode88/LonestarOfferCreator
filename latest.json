@@ -1,8 +1,8 @@
 {
-  "version": "2.19.4",
+  "version": "2.20.0",
   "released": "2026-10-22",
-  "notes": "• Ticket window: Cancel ticket and ✓ Done are at the top, Close is at the bottom",
-  "url": "releases/LonestarOfferCreator-2.19.4.exe",
-  "sha256": "dd6089bd79fe9dcba0a176288dfdb05a7efdc1cd6e9a46487687f88ab856bf99",
-  "size": 9845760
+  "notes": "• The offer now lives inside the customer's ticket: open a ticket and the strip under the header switches between 🧾 Ticket · 📠 Scan · 🃏 Cards · ✏️ Draft · 📄 Offer sheet — all for that customer. ← Tickets goes back to the board\n• The ticket opens as a full page (Cancel / Done at the top, Close at the bottom) and its offer is loaded for you\n• The app opens on Tickets; the separate Offer creator tab is hidden — use Quick offer (no ticket) on the Tickets tab for offers without a customer ticket, or turn the tab back on in Settings → This PC",
+  "url": "releases/LonestarOfferCreator-2.20.0.exe",
+  "sha256": "3bc1e8bb00ad5bb9336abccda7c9871edfad0d3f5c906aab49056db25bb0740b",
+  "size": 9849344
 }
