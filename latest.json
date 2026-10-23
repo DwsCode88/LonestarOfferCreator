@@ -1,8 +1,8 @@
 {
-  "version": "2.19.3",
+  "version": "2.19.4",
   "released": "2026-10-22",
-  "notes": "• When a customer sends the counter form on the iPad / kiosk, their bin / bag label prints by itself within a few seconds (ticket number, name, barcode). It prints on one PC only: the front desk (or your only PC) by default — switch it per PC in Tickets → 🏷 Print label when a customer sends the form\n• Starting a ticket doesn't print a second label if one already printed",
-  "url": "releases/LonestarOfferCreator-2.19.3.exe",
-  "sha256": "88bddbdd8095fb88af4ed4579fe8459a7ea3a97036bf9c15bbea1103d4496644",
+  "notes": "• Ticket window: Cancel ticket and ✓ Done are at the top, Close is at the bottom",
+  "url": "releases/LonestarOfferCreator-2.19.4.exe",
+  "sha256": "dd6089bd79fe9dcba0a176288dfdb05a7efdc1cd6e9a46487687f88ab856bf99",
   "size": 9845760
 }
