@@ -1,8 +1,8 @@
 {
-  "version": "2.19.0",
+  "version": "2.19.1",
   "released": "2026-10-22",
-  "notes": "• New 🧾 Tickets tab: a board of every buy / trade customer (Waiting → Scanning → Pricing → Offer ready → Accepted → Done), searchable by name, phone, email or ticket number. ＋ New ticket for walk-ins\n• Click a ticket to see everything under that customer and ticket number: contact info, what they brought, the offer (cash / credit / e-gift, accepted, signed, in Square, gift card), and a timeline of every step (CSV loaded, sent to CardUploader, shown on the iPad, signed, uploaded to Square, notes). Start, open the offer, show it on the iPad, move it along, cancel or mark done from there\n• Tell the customer: ready-made messages (Got your ticket / Working on it / Offer ready with the amounts / Thank you / Ready to pick up) — email them or copy for a text. Every message includes a link to the customer's own status page that updates by itself\n• While working an offer, a bar at the top shows the ticket number, customer and stage",
-  "url": "releases/LonestarOfferCreator-2.19.0.exe",
-  "sha256": "eff81799918d6a6a4bfe0e86d1a507298fea6449066a794d59932d0faee10654",
-  "size": 9839104
+  "notes": "• 🏷 Ticket bin / bag label: big ticket number, customer name, phone, sell / trade, what they brought and the time in, with a QR code and barcode of the ticket number. Prints by itself when you start a ticket (Tickets → 🏷 Label on start), or from the ticket (pick how many — one per bin or bag, numbered 1 of 3…) and the ticket bar\n• Scan a bin label into the Tickets search box (or type BT1004 + Enter) to open that customer's ticket\n• Choose the printer and roll for these labels in Settings → Printers → Ticket bin / bag labels (default: Labels printer, DYMO 30256)",
+  "url": "releases/LonestarOfferCreator-2.19.1.exe",
+  "sha256": "d29dc1118aebc3527ee530d4e0a1e2329e9a31430e7af3ca12824d01c2da91fb",
+  "size": 9843200
 }
