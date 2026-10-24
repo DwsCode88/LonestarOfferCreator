@@ -1,8 +1,8 @@
 {
-  "version": "2.21.1",
+  "version": "2.22.0",
   "released": "2026-10-23",
-  "notes": "• Tickets: cancelled and declined tickets come off the board into their own Cancelled / declined list (button above the board). Cancelling from a ticket goes back to the board",
-  "url": "releases/LonestarOfferCreator-2.21.1.exe",
-  "sha256": "68ea4f22ea638c3fd7d88451a9307edbee6c27a746fcd01d1ff7496e54886882",
-  "size": 9863168
+  "notes": "Ready for staff:\n• 👤 Who's working: pick your initials at the top (asked when the app opens). They go on every ticket step, note and message, and fill in the staff box on Sorting, 3D prints and Holds by themselves\n• 🔒 Manager PIN (Settings → General — same PIN as Card sorting): Settings, buy rates on an offer, custom offers, undoing an accepted offer, uploading to Square again, deleting offers and the Sorting / 3D price settings need it. Unlocked for 10 minutes after the PIN\n• 💾 Daily backups of every offer, hold, sorting order, 3D job and setting (30 days kept) — Settings → General → Backups: Back up now, Restore, Open folder\n• ? Staff guide (top right, or Help → Staff guide): step by step for buy/trade customers, holds, sorting, 3D prints, end of day and what to do when something's wrong\n• Shorter tab names on one line (Holds, Giveaways, Sorting, 3D prints, Events); Ctrl+1 opens Tickets",
+  "url": "releases/LonestarOfferCreator-2.22.0.exe",
+  "sha256": "8f62845a57466b14904561092363be12b28ad901e392fc9b28800258feaf7596",
+  "size": 9923072
 }
