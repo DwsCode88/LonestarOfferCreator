@@ -1,8 +1,8 @@
 {
-  "version": "2.22.0",
-  "released": "2026-10-23",
-  "notes": "Ready for staff:\n• 👤 Who's working: pick your initials at the top (asked when the app opens). They go on every ticket step, note and message, and fill in the staff box on Sorting, 3D prints and Holds by themselves\n• 🔒 Manager PIN (Settings → General — same PIN as Card sorting): Settings, buy rates on an offer, custom offers, undoing an accepted offer, uploading to Square again, deleting offers and the Sorting / 3D price settings need it. Unlocked for 10 minutes after the PIN\n• 💾 Daily backups of every offer, hold, sorting order, 3D job and setting (30 days kept) — Settings → General → Backups: Back up now, Restore, Open folder\n• ? Staff guide (top right, or Help → Staff guide): step by step for buy/trade customers, holds, sorting, 3D prints, end of day and what to do when something's wrong\n• Shorter tab names on one line (Holds, Giveaways, Sorting, 3D prints, Events); Ctrl+1 opens Tickets",
-  "url": "releases/LonestarOfferCreator-2.22.0.exe",
-  "sha256": "8f62845a57466b14904561092363be12b28ad901e392fc9b28800258feaf7596",
-  "size": 9923072
+  "version": "2.23.0",
+  "released": "2026-11-03",
+  "notes": "📦 eBay consignment (new Consign tab):\n• Take a customer's cards to sell on eBay — from the offer (Draft → 📦 Consign on eBay) or by hand. Each card gets its own tag (CN1001-03, barcode) with a list price and the customer's lowest price\n• 🔒 Put in safe → 🛒 Listed (eBay link) → 💵 Sold (buyer paid, eBay fees, shipping) → Pay out (cash, check, Venmo, PayPal) or ↩ Return to customer\n• Store keeps 20% of what's left after eBay fees + shipping, at least $5 a card (Rates & terms, manager PIN; a different rate on one consignment needs the PIN too). Every consignment keeps the rate it was taken in at\n• Prints: signed agreement (customer + store copy), card tags, payout slip with signature, consignment safe sheet\n• Alerts for cards not in the safe yet, payouts overdue and cards unsold too long; ✉ Tell the customer (sold / status / not sold) by email or copy for a text",
+  "url": "releases/LonestarOfferCreator-2.23.0.exe",
+  "sha256": "8319909483d9b9cff988914ca89cea1a46eb46416f70d9a6700ced769ae53975",
+  "size": 10050560
 }
