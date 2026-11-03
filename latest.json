@@ -1,8 +1,8 @@
 {
-  "version": "2.23.0",
+  "version": "2.24.0",
   "released": "2026-11-03",
-  "notes": "📦 eBay consignment (new Consign tab):\n• Take a customer's cards to sell on eBay — from the offer (Draft → 📦 Consign on eBay) or by hand. Each card gets its own tag (CN1001-03, barcode) with a list price and the customer's lowest price\n• 🔒 Put in safe → 🛒 Listed (eBay link) → 💵 Sold (buyer paid, eBay fees, shipping) → Pay out (cash, check, Venmo, PayPal) or ↩ Return to customer\n• Store keeps 20% of what's left after eBay fees + shipping, at least $5 a card (Rates & terms, manager PIN; a different rate on one consignment needs the PIN too). Every consignment keeps the rate it was taken in at\n• Prints: signed agreement (customer + store copy), card tags, payout slip with signature, consignment safe sheet\n• Alerts for cards not in the safe yet, payouts overdue and cards unsold too long; ✉ Tell the customer (sold / status / not sold) by email or copy for a text",
-  "url": "releases/LonestarOfferCreator-2.23.0.exe",
-  "sha256": "8319909483d9b9cff988914ca89cea1a46eb46416f70d9a6700ced769ae53975",
-  "size": 10050560
+  "notes": "📦 Consignment: collections and other items, not just cards:\n• Each line has a type: Card, Graded card, Sealed product, Collection / lot, Other item (figures, playmats, comics…)\n• Collection / lot: one tag, one eBay listing, one sale — with about how many pieces and what's in it. ＋ Add a collection / lot, or tick rows → ⧉ Ticked → one lot\n• Several of the same thing (e.g. 10 booster packs): tick \"one listing\" to sell them together, or leave it for one listing each\n• From an offer, the bulk cards come over as one bulk lot instead of being left out\n• Agreement, tags, payout slip, safe sheet and messages show the type, pieces and contents",
+  "url": "releases/LonestarOfferCreator-2.24.0.exe",
+  "sha256": "a0c00677cf578c662f3c54191d16ccc65ac4ced3d6e8e23f3346511816290bc7",
+  "size": 10061824
 }
