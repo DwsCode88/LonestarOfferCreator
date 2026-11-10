@@ -1,8 +1,8 @@
 {
-  "version": "2.27.0",
-  "released": "2026-11-09",
-  "notes": "🧾 Buy quotes / invoices by % of market:\n• Type the market price on each line; we pay the buy % (default 70%) — or give a line its own %. Lines without a market price take a typed amount\n• Store credit % (default 80%, 0 = cash only): the customer sees both totals and picks cash or store credit when accepting a buy quote online; paying out in store credit takes the credit amount\n• Customer sees market prices + % (default) or only what we pay — per document, default in Settings\n• Draft → 🧾 Buy quote (link) brings each card's market price and keeps the offer's exact cash and store credit totals",
-  "url": "releases/LonestarOfferCreator-2.27.0.exe",
-  "sha256": "1ae608b3727764a75518177a11de81dec5bb0b52019c92c3792f1987f4e37b24",
-  "size": 10291712
+  "version": "2.27.1",
+  "released": "2026-11-10",
+  "notes": "Buy quotes / invoices: store credit removed — one total (what we pay in cash at the buy %). The customer just accepts or declines a buy quote.",
+  "url": "releases/LonestarOfferCreator-2.27.1.exe",
+  "sha256": "a926990e61780a775445ccbaf4eac62399b6346e4741f659cf56590c3a48bb1f",
+  "size": 10290688
 }
