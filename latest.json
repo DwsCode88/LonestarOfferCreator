@@ -1,8 +1,8 @@
 {
-  "version": "2.25.0",
+  "version": "2.26.0",
   "released": "2026-11-09",
-  "notes": "🧾 Invoices & quotes (new Invoices tab):\n• Make an invoice or a quote: customer, lines (scan a sticker or search Square to add items with their price), discount, shipping, sales tax per line, deposit, notes and terms\n• Save & get the link: the customer opens it on the website, downloads the PDF, pays online with Square (Pay button) and accepts or declines a quote. Copy, email or text the link from the app\n• Mark paid / part payments (cash, card, check, Venmo, PayPal, Zelle, store credit); online Square payments, opened links and quote answers come back by themselves\n• PDF download, duplicate, quote → invoice, void (manager), overdue list and reminders, CSV for the books\n• Draft → 🧾 Quote these cards: a quote to sell the ticked cards at sticker prices",
-  "url": "releases/LonestarOfferCreator-2.25.0.exe",
-  "sha256": "8ba6d0b7b8aad59b21689a824b1b0c331b9dbf78b4550fd5f03b4895af2d0040",
-  "size": 10259968
+  "notes": "🧾 Buy and sell invoices & quotes:\n• We buy: ＋ Buy quote (our offer for the customer's items, numbers BQ-…) and ＋ Buy invoice (receipt / bill of sale for what we bought, BI-…) — no sales tax, the PDF has a seller signature line, ✓ Mark paid out when we pay them (cash, store credit, check, Venmo, PayPal, Zelle)\n• We sell: Sell quote (Q-…) and Sell invoice (INV-…) as before, with the Square Pay button\n• The customer accepts a buy quote from the link just like a sell quote; then 🧾 We bought it — make the buy invoice\n• From an offer: Draft → 🧾 Buy quote (link) sends the offer at its cash price (store credit amount in the note); 🧾 Sell quote for cards they want to buy from us\n• Filter We buy / We sell, \"We owe\" total, ⇄ copy a document as the other direction, buy terms and how-we-pay in Settings",
+  "url": "releases/LonestarOfferCreator-2.26.0.exe",
+  "sha256": "233b750b500359e2b16ea04d7fe6098d5a9e410256b017f750e382cbf50a7d9c",
+  "size": 10275328
 }
