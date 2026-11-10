@@ -1,8 +1,8 @@
 {
-  "version": "2.24.0",
-  "released": "2026-11-03",
-  "notes": "📦 Consignment: collections and other items, not just cards:\n• Each line has a type: Card, Graded card, Sealed product, Collection / lot, Other item (figures, playmats, comics…)\n• Collection / lot: one tag, one eBay listing, one sale — with about how many pieces and what's in it. ＋ Add a collection / lot, or tick rows → ⧉ Ticked → one lot\n• Several of the same thing (e.g. 10 booster packs): tick \"one listing\" to sell them together, or leave it for one listing each\n• From an offer, the bulk cards come over as one bulk lot instead of being left out\n• Agreement, tags, payout slip, safe sheet and messages show the type, pieces and contents",
-  "url": "releases/LonestarOfferCreator-2.24.0.exe",
-  "sha256": "a0c00677cf578c662f3c54191d16ccc65ac4ced3d6e8e23f3346511816290bc7",
-  "size": 10061824
+  "version": "2.25.0",
+  "released": "2026-11-09",
+  "notes": "🧾 Invoices & quotes (new Invoices tab):\n• Make an invoice or a quote: customer, lines (scan a sticker or search Square to add items with their price), discount, shipping, sales tax per line, deposit, notes and terms\n• Save & get the link: the customer opens it on the website, downloads the PDF, pays online with Square (Pay button) and accepts or declines a quote. Copy, email or text the link from the app\n• Mark paid / part payments (cash, card, check, Venmo, PayPal, Zelle, store credit); online Square payments, opened links and quote answers come back by themselves\n• PDF download, duplicate, quote → invoice, void (manager), overdue list and reminders, CSV for the books\n• Draft → 🧾 Quote these cards: a quote to sell the ticked cards at sticker prices",
+  "url": "releases/LonestarOfferCreator-2.25.0.exe",
+  "sha256": "8ba6d0b7b8aad59b21689a824b1b0c331b9dbf78b4550fd5f03b4895af2d0040",
+  "size": 10259968
 }
