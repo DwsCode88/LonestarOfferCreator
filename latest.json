@@ -1,8 +1,8 @@
 {
-  "version": "2.27.1",
-  "released": "2026-11-10",
-  "notes": "Buy quotes / invoices: store credit removed — one total (what we pay in cash at the buy %). The customer just accepts or declines a buy quote.",
-  "url": "releases/LonestarOfferCreator-2.27.1.exe",
-  "sha256": "a926990e61780a775445ccbaf4eac62399b6346e4741f659cf56590c3a48bb1f",
-  "size": 10290688
+  "version": "2.28.0",
+  "released": "2026-11-13",
+  "notes": "🔢 eBay Live number labels (Labels tab, top): print 1–500 (any range) on the side-by-side DYMO 30333 roll — # before the number, an optional small line (e.g. the show date), 1 or 2 labels per number, Test (first 2) to check the roll. Prints on the price-label printer and roll.\nAlso: buy quotes / invoices that were sent with a store credit total are sent again without it (page + PDF), and copies the website missed are resent by themselves.",
+  "url": "releases/LonestarOfferCreator-2.28.0.exe",
+  "sha256": "6404bffe77825b420e19c1a4bbc59bac3fd1c2df2470e896040100f4e8fe8d65",
+  "size": 10297856
 }
