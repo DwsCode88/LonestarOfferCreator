@@ -1,8 +1,8 @@
 {
-  "version": "2.29.0",
+  "version": "2.29.1",
   "released": "2026-11-16",
-  "notes": "🏷 Cost code on price labels: the buy date with no slashes then our cost with no decimal — bought Nov 16 2026 for $12.50 prints 1116261250. Labels made from an offer get the cost (the offer's cash for that card) and the day it was accepted by themselves; on other labels type it in the new Our cost column. Turn it off or move it in Labels → Edit label layout (Cost code).",
-  "url": "releases/LonestarOfferCreator-2.29.0.exe",
-  "sha256": "66dbca538c110e2e8e9939ff29686657180b804d702f614a2216007d46870938",
+  "notes": "Cost code: our cost is rounded up to a whole dollar — bought Nov 16 2026 for $12.50 prints 11162613.",
+  "url": "releases/LonestarOfferCreator-2.29.1.exe",
+  "sha256": "d9a0b0f7caecf5f8f4f7b8113849b10eab732fcca5900ba1958eee3ef4420d44",
   "size": 10299904
 }
