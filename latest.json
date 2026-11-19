@@ -1,8 +1,8 @@
 {
-  "version": "2.29.1",
-  "released": "2026-11-16",
-  "notes": "Cost code: our cost is rounded up to a whole dollar — bought Nov 16 2026 for $12.50 prints 11162613.",
-  "url": "releases/LonestarOfferCreator-2.29.1.exe",
-  "sha256": "d9a0b0f7caecf5f8f4f7b8113849b10eab732fcca5900ba1958eee3ef4420d44",
-  "size": 10299904
+  "version": "2.30.0",
+  "released": "2026-11-19",
+  "notes": "Works without the website:\n• When the store website is down (no internet, or its database is over its monthly limit) the app stops trying every few seconds and the Tickets tab says so, with ＋ Price cards for a customer, Saved offers and Try again. Scanning, CSVs, the offer, printing, Accept at the counter, Square upload and labels all work as usual\n• Uses the website far less, so its database can sleep: iPad signatures are only checked for 3 hours after Show on iPad, invoice updates every 10 minutes",
+  "url": "releases/LonestarOfferCreator-2.30.0.exe",
+  "sha256": "5fc94c8e8def788072dac3d1db926ced3f0cac1391fc4ff2cfa9bfec531ea38e",
+  "size": 10308096
 }
