@@ -1,8 +1,8 @@
 {
-  "version": "2.30.0",
+  "version": "2.30.1",
   "released": "2026-11-19",
-  "notes": "Works without the website:\n• When the store website is down (no internet, or its database is over its monthly limit) the app stops trying every few seconds and the Tickets tab says so, with ＋ Price cards for a customer, Saved offers and Try again. Scanning, CSVs, the offer, printing, Accept at the counter, Square upload and labels all work as usual\n• Uses the website far less, so its database can sleep: iPad signatures are only checked for 3 hours after Show on iPad, invoice updates every 10 minutes",
-  "url": "releases/LonestarOfferCreator-2.30.0.exe",
-  "sha256": "5fc94c8e8def788072dac3d1db926ced3f0cac1391fc4ff2cfa9bfec531ea38e",
+  "notes": "Works without the website:\n• When the store website is down (no internet, or its database is over its monthly limit) the app stops trying every few seconds and the Tickets tab says so, with ＋ Price cards for a customer, Saved offers and Try again. Scanning, CSVs, the offer, printing, Accept at the counter, Square upload and labels all work as usual\n• Uses the website far less, so its database can sleep: iPad signatures are only checked for 3 hours after Show on iPad, invoice updates every 10 minutes\nSaving the website address / key (Online requests) tries the website again right away, even if it was marked down.",
+  "url": "releases/LonestarOfferCreator-2.30.1.exe",
+  "sha256": "ba2ebcb22c8eb15d0d55accbf5c4a175fc29a4e9117792f1362031d1a10c38d9",
   "size": 10308096
 }
